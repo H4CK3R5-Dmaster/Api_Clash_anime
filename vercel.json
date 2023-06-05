@@ -5,7 +5,7 @@
         "src": "server.js",
         "use": "@vercel/node",
         "config": {
-          "includeFiles": ["/animes/baki/persos.json"]
+          "includeFiles": ["index.js","vercel.json","package.json","/animes/baki/persos.json"]
         }
       }
     ],
