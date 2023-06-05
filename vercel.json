@@ -8,8 +8,12 @@
     ],
     "routes": [
       {
-        "src": "/animes/.*",
-        "dest": "/animes/$1"
+        "src": "/animes/(.*)",
+        "dest": "/index.js"
+      },
+      {
+        "src": "/animes/$1",
+        "dest": "/index.js"
       },
       {
         "src": "/(.*)",
