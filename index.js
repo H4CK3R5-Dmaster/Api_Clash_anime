@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 app.get('/animes', (req, res) => {
     res.send("Find all animes")
 })
-app.get('/animes/v1/:animeName', (req, res) => {
+app.get('/animes/:animeName', (req, res) => {
   const animeName = req.params.animeName;
   console.log(animeName)
   const filePath = `./animes/${animeName}/persos.json`;
