@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 })
 app.get('/animes/v1/:animeName', (req, res) => {
   const animeName = req.params.animeName;
-  const filePath = `./animes/${animeName}/persos.json`;
+  const filePath = `./${animeName}/persos.json`;
   
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
