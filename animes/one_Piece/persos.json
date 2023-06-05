@@ -1,3 +1,177 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Gear Second", "multiplier": 500},
+          {"transformation_2": "Gear Third", "multiplier": 700},
+          {"transformation_3": "Gear Fourth", "multiplier": 1000}
+        ],
+        "attaques": [
+          {"attaque_1": "Gomu Gomu no Pistol", "degats": 80},
+          {"attaque_2": "Gomu Gomu no Gatling", "degats": 0},
+          {"attaque_3": "Gomu Gomu no Elephant Gun", "degats": 120},
+          {"attaque_4": "Gomu Gomu no King Kong Gun", "degats": 150}
+        ],
+        "special": [
+          {"attaque_spe": "Gomu Gomu no Red Hawk", "degats": 200}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Oni Giri", "degats": 70},
+          {"attaque_2": "Santoryu: Nitoryu", "degats": 80},
+          {"attaque_3": "Santoryu: Ittoryu", "degats": 90},
+          {"attaque_4": "Santoryu: Asura", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Santoryu: Kiki Kyutoryu: Asura Ichibugin", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 3,
+        "name": "Nami",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Clima-Tact: Thunderbolt Tempo", "degats": 60},
+          {"attaque_2": "Clima-Tact: Mirage Tempo", "degats": 0},
+          {"attaque_3": "Clima-Tact: Cyclone Tempo", "degats": 80},
+          {"attaque_4": "Clima-Tact: Thunder Breed Tempo", "degats": 100}
+        ],
+        "special": [
+          {"attaque_spe": "Clima-Tact: Thunderstorm Tempo", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "name": "Sanji",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Diable Jambe: Concassé", "degats": 70},
+          {"attaque_2": "Diable Jambe: Flambage Shot", "degats": 80},
+          {"attaque_3": "Diable Jambe: Poêle à Frire", "degats": 90},
+          {"attaque_4": "Diable Jambe: Bien Cuit", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Diable Jambe: Cuisson au Feu de l'Enfer", "degats": 150}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 5,
+        "name": "Nico Robin",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Clutch", "degats": 60},
+          {"attaque_2": "Gigantesco Mano", "degats": 80},
+          {"attaque_3": "Cien Fleur: Strangle", "degats": 90},
+          {"attaque_4": "Cien Fleur: Delphinium", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Cien Fleur: Bloom", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "name": "Franky",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Franky Shogun", "multiplier": 500},
+          {"transformation_2": "Franky Tank", "multiplier": 700}
+        ],
+        "attaques": [
+          {"attaque_1": "Coup de Vent", "degats": 70},
+          {"attaque_2": "Coup de Poing Radicalement Puissant", "degats": 80},
+          {"attaque_3": "Coup de Pied Radicalement Puissant", "degats": 90},
+          {"attaque_4": "Rocket Launcher", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Coup de Poing Radicalement Puissant: Radical Beam", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 7,
+        "name": "Usopp",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Kabuto", "degats": 60},
+          {"attaque_2": "Usopp Pound", "degats": 0},
+          {"attaque_3": "Usopp Spell", "degats": 80},
+          {"attaque_4": "Usopp Impact", "degats": 100}
+        ],
+        "special": [
+          {"attaque_spe": "Usopp Golden Pound", "degats": 150}
+        ],
+        "sante": 700
+      },
+      {
+        "id": 8,
+        "name": "Tony Tony Chopper",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Brain Point", "multiplier": 300},
+          {"transformation_2": "Guard Point", "multiplier": 500},
+          {"transformation_3": "Heavy Point", "multiplier": 700},
+          {"transformation_4": "Monster Point", "multiplier": 1000}
+        ],
+        "attaques": [
+          {"attaque_1": "Horn Point: Horn Attack", "degats": 70},
+          {"attaque_2": "Kung Fu Point: Kung Fu Punch", "degats": 80},
+          {"attaque_3": "Jumping Point: Jumping Stomp", "degats": 90},
+          {"attaque_4": "Guard Point: Heavy Point Guard", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Monster Point: Heavy Gong", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 9,
+        "name": "Brook",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Bone Attack", "degats": 70},
+          {"attaque_2": "Soul Solid: Soul Solid Strike", "degats": 80},
+          {"attaque_3": "Soul Solid: Star", "degats": 90},
+          {"attaque_4": "Soul Solid: Concerto", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Soul Solid: Binks' Sake Concerto", "degats": 150}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 10,
+        "name": "Jinbe",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Fishman Karate: Gosenmaigawara Seiken", "degats": 70},
+          {"attaque_2": "Fishman Karate: Shirahaezan", "degats": 80},
+          {"attaque_3": "Fishman Karate: Mizugokoro", "degats": 90},
+          {"attaque_4": "Fishman Karate: Ryusoken", "degats": 120}
+        ],
+        "special": [
+          {"attaque_spe": "Fishman Karate: Kaishin", "degats": 150}
+        ],
+        "sante": 950
+      }
+    ]
+  }
+  
