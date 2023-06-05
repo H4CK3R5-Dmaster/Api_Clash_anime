@@ -6,7 +6,7 @@
             "avatar": "",
             "attaques" : [{}],
             "special":"",
-            "santé" : 100
+            "santé" : 900
         },
         {
             "id": 2, 
@@ -14,7 +14,7 @@
             "avatar": "",
             "attaques" : [{}],
             "special":"",
-            "santé" : 250
+            "santé" : 1000
         },
         {
             "id": 3, 
@@ -22,7 +22,7 @@
             "avatar": "",
             "attaques" : [{}],
             "special":"",
-            "santé" : 250
+            "santé" : 800
         },
         {
             "id": 4, 
@@ -30,7 +30,55 @@
             "avatar": "",
             "attaques" : [{}],
             "special":"",
-            "santé" : 250
+            "santé" : 700
+        },
+        {
+            "id": 5, 
+            "name": "Goki Shibukawa",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 600
+        },
+        {
+            "id": 6, 
+            "name": "Sikorsky",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 500
+        },
+        {
+            "id": 7, 
+            "name": "Jack Hanma",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 750
+        },
+        {
+            "id": 8, 
+            "name": "Kozue Matsumoto",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 300
+        },
+        {
+            "id": 9, 
+            "name": "Retsu Kaioh",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 650
+        },
+        {
+            "id": 10, 
+            "name": "Oliva Biscuit",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 850
         }
     ]
 }
