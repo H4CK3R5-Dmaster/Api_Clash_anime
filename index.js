@@ -3,12 +3,13 @@ const fs = require('fs');
 
 const app = express();
 const port = 9999;
+const url = "/animes"
 app.get('/', (req, res) => {
     res.send('Hey this is my API running 🥳')
 })
 app.get('/animes/v1/:animeName', (req, res) => {
   const animeName = req.params.animeName;
-  const filePath = `./${animeName}/persos.json`;
+  const filePath = `/animes/${animeName}/persos.json`;
   
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
