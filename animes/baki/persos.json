@@ -1,0 +1,36 @@
+{
+    "personnages" : [
+        {
+            "id": 1, 
+            "name": "Baki Hanma",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 100
+        },
+        {
+            "id": 2, 
+            "name": "Yujiro Hanma",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 250
+        },
+        {
+            "id": 3, 
+            "name": "Kaoru Hanayama",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 250
+        },
+        {
+            "id": 4, 
+            "name": "Doppo Orochi",
+            "avatar": "",
+            "attaques" : [{}],
+            "special":"",
+            "santé" : 250
+        }
+    ]
+}
