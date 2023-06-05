@@ -1,0 +1,178 @@
+{
+    "personnages": [
+        {
+            "id": 1,
+            "name": "Goku",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Super Saiyan", "multiplier": 2},
+                {"transformation_2": "Super Saiyan Blue", "multiplier": 10},
+                {"transformation_3": "Ultra Instinct", "multiplier": 20}
+            ],
+            "attaques": [
+                {"attaque_1": "Kamehameha", "degats": 50},
+                {"attaque_2": "Spirit Bomb", "degats": 100},
+                {"attaque_3": "Dragon Fist", "degats": 150},
+                {"attaque_4": "Instant Transmission", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Super Dragon Fist", "degats": 200}],
+            "sante": 1000
+        },
+        {
+            "id": 2,
+            "name": "Vegeta",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Super Saiyan", "multiplier": 2},
+                {"transformation_2": "Super Saiyan Blue", "multiplier": 10},
+                {"transformation_3": "Super Saiyan God", "multiplier": 15}
+            ],
+            "attaques": [
+                {"attaque_1": "Final Flash", "degats": 80},
+                {"attaque_2": "Galick Gun", "degats": 70},
+                {"attaque_3": "Big Bang Attack", "degats": 90},
+                {"attaque_4": "Energy Punch", "degats": 60}
+            ],
+            "special": [{"attaque_spe": "Final Shine Attack", "degats": 180}],
+            "sante": 900
+        },
+        {
+            "id": 3,
+            "name": "Gohan",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Super Saiyan", "multiplier": 2},
+                {"transformation_2": "Ultimate Gohan", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Masenko", "degats": 60},
+                {"attaque_2": "Kamehameha", "degats": 70},
+                {"attaque_3": "Father-Son Kamehameha", "degats": 120},
+                {"attaque_4": "Mystic Attack", "degats": 80}
+            ],
+            "special": [{"attaque_spe": "Ultimate Kamehameha", "degats": 160}],
+            "sante": 800
+        },
+        {
+            "id": 4,
+            "name": "Piccolo",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Fuse with Nail", "multiplier": 2},
+                {"transformation_2": "Fuse with Kami", "multiplier": 5}
+            ],
+            "attaques": [
+                {"attaque_1": "Special Beam Cannon", "degats": 70},
+                {"attaque_2": "Hellzone Grenade", "degats": 80},
+                {"attaque_3": "Makankosappo", "degats": 90},
+                {"attaque_4": "Light Grenade", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Hell's Judgment", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 5,
+            "name": "Frieza",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "First Form", "multiplier": 1},
+                {"transformation_2": "Final Form", "multiplier": 2},
+                {"transformation_3": "Golden Frieza", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Death Beam", "degats": 60},
+                {"attaque_2": "Death Ball", "degats": 80},
+                {"attaque_3": "Supernova", "degats": 100},
+                {"attaque_4": "Nova Strike", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Golden Death Beam", "degats": 180}],
+            "sante": 1000
+        },
+        {
+            "id": 6,
+            "name": "Cell",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Imperfect Form", "multiplier": 1},
+                {"transformation_2": "Semi-Perfect Form", "multiplier": 2},
+                {"transformation_3": "Perfect Form", "multiplier": 5},
+                {"transformation_4": "Super Perfect Form", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Kamehameha", "degats": 50},
+                {"attaque_2": "Solar Flare", "degats": 0},
+                {"attaque_3": "Perfect Barrier", "degats": 0},
+                {"attaque_4": "Self-Destruct", "degats": 500}
+            ],
+            "special": [{"attaque_spe": "Big Bang Kamehameha", "degats": 200}],
+            "sante": 1500
+        },
+        {
+            "id": 7,
+            "name": "Majin Buu",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Innocent Buu", "multiplier": 1},
+                {"transformation_2": "Evil Buu", "multiplier": 2},
+                {"transformation_3": "Super Buu", "multiplier": 5},
+                {"transformation_4": "Kid Buu", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Chocolate Beam", "degats": 0},
+                {"attaque_2": "Mystic Ball Attack", "degats": 80},
+                {"attaque_3": "Human Extinction Attack", "degats": 100},
+                {"attaque_4": "Vanishing Beam", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Super Ghost Kamikaze Attack", "degats": 200}],
+            "sante": 1200
+        },
+        {
+            "id": 8,
+            "name": "Trunks",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Super Saiyan", "multiplier": 2},
+                {"transformation_2": "Super Saiyan 2", "multiplier": 5}
+            ],
+            "attaques": [
+                {"attaque_1": "Burning Attack", "degats": 80},
+                {"attaque_2": "Heat Dome Attack", "degats": 100},
+                {"attaque_3": "Sword of Hope", "degats": 120},
+                {"attaque_4": "Finish Buster", "degats": 90}
+            ],
+            "special": [{"attaque_spe": "Final Hope Slash", "degats": 180}],
+            "sante": 800
+        },
+        {
+            "id": 9,
+            "name": "Gotenks",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Super Saiyan", "multiplier": 2},
+                {"transformation_2": "Super Saiyan 3", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Galactic Donut", "degats": 70},
+                {"attaque_2": "Super Ghost Kamikaze Attack", "degats": 80},
+                {"attaque_3": "Charging Ultra Buu Buu Volleyball", "degats": 100},
+                {"attaque_4": "Ultra Buu Buu Volleyball", "degats": 120}
+            ],
+            "special": [{"attaque_spe": "Super Ghost Kamikaze Attack Volleyball", "degats": 200}],
+            "sante": 700
+        },
+        {
+            "id": 10,
+            "name": "Krillin",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Destructo Disc", "degats": 60},
+                {"attaque_2": "Solar Flare", "degats": 0},
+                {"attaque_3": "Scattering Bullet", "degats": 70},
+                {"attaque_4": "Kamehameha", "degats": 50}
+            ],
+            "special": [{"attaque_spe": "Spirit Bomb", "degats": 150}],
+            "sante": 600
+        }
+    ]
+}
