@@ -17,6 +17,7 @@ app.get('/animes/:animeName', (req, res) => {
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       res.status(404).json({ error: 'Anime not found' });
+      res.send(err)
       return;
     }
 
