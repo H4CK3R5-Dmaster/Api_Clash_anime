@@ -3,7 +3,9 @@ const fs = require('fs');
 
 const app = express();
 const port = 3000;
-
+app.get('/', () => {
+    res.send('Hey this is my API running 🥳')
+})
 app.get('/animes/:animeName', (req, res) => {
   const animeName = req.params.animeName;
   const filePath = `./animes/${animeName}/persos.json`;
