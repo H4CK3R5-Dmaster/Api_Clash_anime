@@ -1,21 +1,18 @@
 const express = require('express');
 const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const port = 9999;
-const url = "/animes"
-app.get('/', (req, res) => {
-    res.send('Hey this is my API running 🥳')
-})
+const animeDirectory = './animes';
 
-app.get('/animes', (req, res) => {
-    res.send("Find all animes")
-})
+app.get('/', (req, res) => {
+  res.send('Hey this is my API running 🥳');
+});
+
 app.get('/animes/:animeName', (req, res) => {
   const animeName = req.params.animeName;
-  console.log(animeName)
-  const filePath = `./animes/${animeName}/persos.json`;
-  console.log(filePath)
+  const filePath = path.join(animeDirectory, animeName, 'persos.json');
   
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
