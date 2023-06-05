@@ -7,7 +7,7 @@ const port = 9999;
 const animeDirectory = './animes';
 
 app.get('/', (req, res) => {
-  res.send('Hey this is my API running 🥳');
+  res.send('Hey this is Anime API by H4CK3R5-Dmaster 🥳');
 });
 
 app.get("/animes", (req, res) => {
