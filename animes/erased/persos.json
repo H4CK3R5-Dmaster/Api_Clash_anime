@@ -1,3 +1,135 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Satoru Fujinuma",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Revival", "degats": 50},
+          {"attaque_2": "Time Leap", "degats": 60},
+          {"attaque_3": "Rewind", "degats": 70},
+          {"attaque_4": "Final Countdown", "degats": 80}
+        ],
+        "special": [{"attaque_spe": "Revival: The Last Stand", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 2,
+        "name": "Kayo Hinazuki",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Self-Defense", "degats": 40},
+          {"attaque_2": "Escape Plan", "degats": 50},
+          {"attaque_3": "Courage", "degats": 60},
+          {"attaque_4": "Trust", "degats": 70}
+        ],
+        "special": [],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "name": "Kenya Kobayashi",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Investigation", "degats": 40},
+          {"attaque_2": "Analytical Thinking", "degats": 50},
+          {"attaque_3": "Strategy", "degats": 60},
+          {"attaque_4": "Leadership", "degats": 70}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 4,
+        "name": "Hiromi Sugita",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Observation", "degats": 40},
+          {"attaque_2": "Stealth", "degats": 50},
+          {"attaque_3": "Silent Support", "degats": 60},
+          {"attaque_4": "Teamwork", "degats": 70}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 5,
+        "name": "Airi Katagiri",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Supportive Presence", "degats": 40},
+          {"attaque_2": "Friendship", "degats": 50},
+          {"attaque_3": "Encouragement", "degats": 60},
+          {"attaque_4": "Hope", "degats": 70}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 6,
+        "name": "Gaku Yashiro",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Manipulation", "degats": 50},
+          {"attaque_2": "Deception", "degats": 60},
+          {"attaque_3": "Stalking", "degats": 70},
+          {"attaque_4": "Predator's Gaze", "degats": 80}
+        ],
+        "special": [],
+        "sante": 1000
+      },
+      {
+        "id": 7,
+        "name": "Sachiko Fujinuma",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Motherly Love", "degats": 40},
+          {"attaque_2": "Protective Shield", "degats": 50},
+          {"attaque_3": "Sacrifice", "degats": 60},
+          {"attaque_4": "Unconditional Support", "degats": 70}
+        ],
+        "special": [],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "name": "Jun Shiratori",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Loyalty", "degats": 40},
+          {"attaque_2": "Guardian Angel", "degats": 50},
+          {"attaque_3": "Rescue Mission", "degats": 60},
+          {"attaque_4": "Fearless Strike", "degats": 70}
+        ],
+        "special": [],
+        "sante": 750
+      },
+      {
+        "id": 9,
+        "name": "Kazu",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Quick Reflexes", "degats": 40},
+          {"attaque_2": "Swift Strike", "degats": 50},
+          {"attaque_3": "Agile Evasion", "degats": 60},
+          {"attaque_4": "Stealthy Approach", "degats": 70}
+        ],
+        "special": [],
+        "sante": 750
+      },
+      {
+        "id": 10,
+        "name": "Osamu",
+        "avatar": "",
+        "attaques": [
+          {"attaque_1": "Sharp Intellect", "degats": 40},
+          {"attaque_2": "Strategic Planning", "degats": 50},
+          {"attaque_3": "Analytical Mind", "degats": 60},
+          {"attaque_4": "Tactical Execution", "degats": 70}
+        ],
+        "special": [],
+        "sante": 750
+      }
+    ]
+  }
+  
