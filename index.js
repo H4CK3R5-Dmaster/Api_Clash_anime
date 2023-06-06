@@ -16,6 +16,7 @@ app.get('/', (req, res) => {
 
   let explanation = 'Hey, this is the Anime API by H4CK3R5-Dmaster 🥳';
   explanation += '<br><br>Available routes: ' + routes.join(', ');
+  explanation += '<br><br>You can find the available anime in /animes and the available video games in /jeuxvideo. ';
   explanation += '<br><br>Explanation of :animeName and :gameName:';
   explanation += '<br><br>:animeName and :gameName are dynamic route parameters.';
   explanation += '<br>They are used to capture variable values in the URL.';
