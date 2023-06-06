@@ -16,6 +16,14 @@
         "dest": "/index.js"
       },
       {
+        "src": "/jeux_video/(.*)",
+        "dest": "/index.js"
+      },
+      {
+        "src": "/jeux_video/$1",
+        "dest": "/index.js"
+      },
+      {
         "src": "/(.*)",
         "dest": "/index.js"
       }
