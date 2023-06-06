@@ -13,26 +13,28 @@ app.get('/', (req, res) => {
 app.get("/animes", (req, res) => {
   const animesDirectory = './animes';
 
-  fs.readdir(animesDirectory, (err, files) => {
-    if (err) {
-      res.status(500).json({ error: 'Internal server error' });
-      return;
-    }
+  const animeFolders = fs.readdirSync(animesDirectory)
+    .filter((folder) => {
+      const fullPath = path.join(animesDirectory, folder);
+      const persosFilePath = path.join(fullPath, 'persos.json');
 
-    const animeFolders = files.filter((file) => {
-      const fullPath = path.join(animesDirectory, file);
-      return fs.statSync(fullPath).isDirectory();
-    });
-    animeFolders.sort();
-    const animésDisponibles = animeFolders.map((folder) => {
-      return { animé: folder };
-    });
+      if (fs.existsSync(persosFilePath)) {
+        const persosFileContent = fs.readFileSync(persosFilePath, 'utf-8');
+        const parsedPersosFile = JSON.parse(persosFileContent);
+        return Object.keys(parsedPersosFile).length > 0;
+      }
 
-    const response = { "animés disponibles": animésDisponibles };
-    res.json(response);
+      return false;
+    })
+    .sort();
+
+  const animésDisponibles = animeFolders.map((folder) => {
+    return { animé: folder };
   });
-});
 
+  const response = { "animés disponibles": animésDisponibles };
+  res.json(response);
+});
 
 
 

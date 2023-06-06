@@ -1,3 +1,186 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "nom": "Natsu Dragnir",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Dragon Force", "multiplier": 2},
+          {"transformation_2": "Fire Dragon King Mode", "multiplier": 3}
+        ],
+        "attaques": [
+          {"attaque_1": "Fire Dragon's Roar", "degats": 80},
+          {"attaque_2": "Fire Dragon's Claw", "degats": 60},
+          {"attaque_3": "Crimson Lotus: Exploding Flame Blade", "degats": 90},
+          {"attaque_4": "Lightning Fire Dragon's Iron Fist", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Dragon Slayer Secret Art: Crimson Lotus: Phoenix Blade", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 2,
+        "nom": "Lucy Heartfilia",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Urano Metria", "degats": 70},
+          {"attaque_2": "Star Dress: Taurus Form", "degats": 60},
+          {"attaque_3": "Celestial Spirit: Leo's Regulus Impact", "degats": 90},
+          {"attaque_4": "Fairy Sphere", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Celestial Spirit: The Starry Sky", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "nom": "Erza Scarlet",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Armor: Heaven's Wheel", "multiplier": 1.5},
+          {"transformation_2": "Armor: Purgatory", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Sword: Flame Empress", "degats": 80},
+          {"attaque_2": "Sword: Heaven's Wheel", "degats": 70},
+          {"attaque_3": "Armor: Black Wing", "degats": 90},
+          {"attaque_4": "Armor: Nakagami Starlight", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Armor: Fairy Queen Armor", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 4,
+        "nom": "Gray Fullbuster",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Ice-Make: Hammer", "multiplier": 1.5},
+          {"transformation_2": "Ice Devil Slayer", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Ice-Make: Ice Geyser", "degats": 70},
+          {"attaque_2": "Ice-Make: Shield", "degats": 60},
+          {"attaque_3": "Ice-Make: Lance", "degats": 80},
+          {"attaque_4": "Ice Devil's Zeroth Long Sword", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Ice-Make: Seven Slice Dance", "degats": 150}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 5,
+        "nom": "Wendy Marvell",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Dragon Force", "multiplier": 2},
+          {"transformation_2": "Sky Dragon Slayer", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Sky Dragon's Roar", "degats": 70},
+          {"attaque_2": "Sky Dragon's Wing Attack", "degats": 60},
+          {"attaque_3": "Sky Dragon's Healing Spell", "degats": 0},
+          {"attaque_4": "Sky Dragon's Claw", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Dragon Slayer Secret Art: Shattering Light: Sky Drill", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "nom": "Gajeel Redfox",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Iron Shadow Dragon Mode", "multiplier": 2},
+          {"transformation_2": "Iron Shadow Dragon: Iron Club", "multiplier": 2.5}
+        ],
+        "attaques": [
+          {"attaque_1": "Iron Dragon's Roar", "degats": 80},
+          {"attaque_2": "Iron Dragon's Club", "degats": 70},
+          {"attaque_3": "Iron Dragon's Sword", "degats": 90},
+          {"attaque_4": "Iron Shadow Dragon's Crushing Fang", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Iron Shadow Dragon Mode: Karma Demon: Iron God Sword", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 7,
+        "nom": "Juvia Lockser",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Water Lock", "degats": 70},
+          {"attaque_2": "Water Nebula", "degats": 60},
+          {"attaque_3": "Water Slicer", "degats": 80},
+          {"attaque_4": "Water Cane", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Unison Raid: Water-Make: Water-Meteor", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "nom": "Gildarts Clive",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Crushing Evil, Spreading the Truth: Empyrean", "degats": 80},
+          {"attaque_2": "Crushing Evil, Spreading the Truth: Heavenly Pillar", "degats": 70},
+          {"attaque_3": "Crushing Evil, Spreading the Truth: Divine Palm", "degats": 90},
+          {"attaque_4": "Crushing Evil, Spreading the Truth: Thunderous Strike", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Crushing Evil, Spreading the Truth: Supreme King's Wrath", "degats": 150}
+        ],
+        "sante": 950
+      },
+      {
+        "id": 9,
+        "nom": "Laxus Dreyar",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Raging Bolt", "multiplier": 1.5},
+          {"transformation_2": "Dragon Force", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Thunder Palace", "degats": 80},
+          {"attaque_2": "Lightning Dragon's Roar", "degats": 70},
+          {"attaque_3": "Lightning Body", "degats": 0},
+          {"attaque_4": "Lightning Dragon's Iron Fist", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Thunder Palace: Roaring Thunder", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 10,
+        "nom": "Mirajane Strauss",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Satan Soul", "multiplier": 1.5},
+          {"transformation_2": "Satan Soul: Sitri", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Darkness Stream", "degats": 70},
+          {"attaque_2": "Soul Extinction", "degats": 60},
+          {"attaque_3": "Satan Soul: Halphas", "degats": 80},
+          {"attaque_4": "Satan Soul: Mirajane Alegria", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Satan Soul: Satan's Hellfire", "degats": 150}
+        ],
+        "sante": 850
+      }
+    ]
+  }
+  

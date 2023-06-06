@@ -1,3 +1,168 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Ken Kaneki",
+        "avatar": "",
+        "transformation": [
+          {"transformation_1": "Half-Kakuja", "multiplier": 1.5},
+          {"transformation_2": "Centipede", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Kagune: Rinkaku Whip", "degats": 70},
+          {"attaque_2": "Kagune: Ukaku Feathers", "degats": 80},
+          {"attaque_3": "Kagune: Bikaku Tail", "degats": 90},
+          {"attaque_4": "Kagune: Koukaku Blades", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kakuja: Centipede Awakening", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Touka Kirishima",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Kagune: Ukaku Feather Barrage", "degats": 60},
+          {"attaque_2": "Kagune: Rinkaku Claw Strike", "degats": 80},
+          {"attaque_3": "Kagune: Bikaku Tail Slam", "degats": 90},
+          {"attaque_4": "Kagune: Koukaku Blade Dance", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kagune: Centipede Rush", "degats": 150}
+        ],
+        "sante": 750
+      },
+      {
+        "id": 3,
+        "name": "Shuu Tsukiyama",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Gourmet's Feast", "degats": 60},
+          {"attaque_2": "Table Manners", "degats": 80},
+          {"attaque_3": "Cannibal Carnival", "degats": 90},
+          {"attaque_4": "Elegant Destruction", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Uncontrollable Gluttony", "degats": 150}
+        ],
+        "sante": 700
+      },
+      {
+        "id": 4,
+        "name": "Juuzou Suzuya",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Scorpion", "degats": 60},
+          {"attaque_2": "Rabbit", "degats": 80},
+          {"attaque_3": "Mandible", "degats": 90},
+          {"attaque_4": "Slash", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Scorpion's Wrath", "degats": 150}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 5,
+        "name": "Haise Sasaki",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Kagune: Ukaku Blast", "degats": 70},
+          {"attaque_2": "Kagune: Rinkaku Slash", "degats": 80},
+          {"attaque_3": "Kagune: Bikaku Sweep", "degats": 90},
+          {"attaque_4": "Kagune: Koukaku Barrage", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kagune: Centipede Burst", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "name": "Kishou Arima",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Owl: IXA", "degats": 70},
+          {"attaque_2": "Owl: Narukami", "degats": 80},
+          {"attaque_3": "Owl: IXA Special", "degats": 90},
+          {"attaque_4": "Owl: Narukami Final", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Owl: IXA Release", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 7,
+        "name": "Ayato Kirishima",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Kagune: Ukaku Volley", "degats": 60},
+          {"attaque_2": "Kagune: Rinkaku Claw Slash", "degats": 80},
+          {"attaque_3": "Kagune: Bikaku Spin Kick", "degats": 90},
+          {"attaque_4": "Kagune: Koukaku Charge", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kagune: Centipede Assault", "degats": 150}
+        ],
+        "sante": 750
+      },
+      {
+        "id": 8,
+        "name": "Koutarou Amon",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Quinque: Yukimura 1/3", "degats": 70},
+          {"attaque_2": "Quinque: Doujima 1/2", "degats": 80},
+          {"attaque_3": "Quinque: Arata Joker", "degats": 90},
+          {"attaque_4": "Quinque: Quinque IXA", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Quinque: Arata Joker Final", "degats": 150}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 9,
+        "name": "Seidou Takizawa",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Kakuja: Owl Claw", "degats": 70},
+          {"attaque_2": "Kakuja: Ukaku Barrage", "degats": 80},
+          {"attaque_3": "Kakuja: Rinkaku Tail Whip", "degats": 90},
+          {"attaque_4": "Kakuja: Koukaku Shell Slam", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kakuja: Centipede Rampage", "degats": 150}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "name": "Eto Yoshimura",
+        "avatar": "",
+        "transformation": [],
+        "attaques": [
+          {"attaque_1": "Kagune: Ukaku Beam", "degats": 60},
+          {"attaque_2": "Kagune: Rinkaku Tendril", "degats": 80},
+          {"attaque_3": "Kagune: Bikaku Sweep", "degats": 90},
+          {"attaque_4": "Kagune: Koukaku Shell", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Kagune: Centipede Strike", "degats": 150}
+        ],
+        "sante": 750
+      }
+    ]
+  }
+  

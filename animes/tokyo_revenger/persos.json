@@ -1,3 +1,165 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Takemichi Hanagaki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Self-sacrifice", "degats": 50},
+          {"attaque_2": "Resolve", "degats": 30},
+          {"attaque_3": "Courageous Strike", "degats": 60},
+          {"attaque_4": "Determination", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Last Resort", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 2,
+        "name": "Mikey (Manjiro Sano)",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Dragon Kick", "degats": 70},
+          {"attaque_2": "Dragon Punch", "degats": 60},
+          {"attaque_3": "Dragon Elbow", "degats": 80},
+          {"attaque_4": "Dragon Uppercut", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Dragon Fury", "degats": 150}
+        ],
+        "sante": 1200
+      },
+      {
+        "id": 3,
+        "name": "Draken (Ken Ryuguji)",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Thunder Punch", "degats": 60},
+          {"attaque_2": "Lightning Kick", "degats": 50},
+          {"attaque_3": "Electric Slam", "degats": 70},
+          {"attaque_4": "Shockwave Strike", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Thunderstorm Fury", "degats": 150}
+        ],
+        "sante": 1100
+      },
+      {
+        "id": 4,
+        "name": "Kisaki Tetta",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Deceptive Strike", "degats": 60},
+          {"attaque_2": "Sly Kick", "degats": 50},
+          {"attaque_3": "Shadow Stab", "degats": 70},
+          {"attaque_4": "Trickster's Gambit", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Illusionary Assassination", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 5,
+        "name": "Chifuyu Matsuno",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Telekinetic Blast", "degats": 70},
+          {"attaque_2": "Psychic Shield", "degats": 60},
+          {"attaque_3": "Mind Crush", "degats": 80},
+          {"attaque_4": "Psychic Wave", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Psycho Blast", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 6,
+        "name": "Baji Keisuke",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Rapid Strike", "degats": 70},
+          {"attaque_2": "Whirlwind Kick", "degats": 60},
+          {"attaque_3": "Cyclone Slash", "degats": 80},
+          {"attaque_4": "Tornado Punch", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Typhoon Fury", "degats": 150}
+        ],
+        "sante": 1100
+      },
+      {
+        "id": 7,
+        "name": "Kazutora Hanemiya",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Brutal Strike", "degats": 60},
+          {"attaque_2": "Reckless Charge", "degats": 50},
+          {"attaque_3": "Savage Slam", "degats": 70},
+          {"attaque_4": "Raging Fury", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Wild Rage", "degats": 150}
+        ],
+        "sante": 950
+      },
+      {
+        "id": 8,
+        "name": "Baji Keisuke",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Shadow Strike", "degats": 60},
+          {"attaque_2": "Phantom Kick", "degats": 50},
+          {"attaque_3": "Spectral Slice", "degats": 70},
+          {"attaque_4": "Ghostly Assault", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Haunting Vengeance", "degats": 150}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 9,
+        "name": "Kiyomasa Senji",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Crow Strike", "degats": 70},
+          {"attaque_2": "Talon Slash", "degats": 60},
+          {"attaque_3": "Feather Assault", "degats": 80},
+          {"attaque_4": "Raven's Fury", "degats": 90}
+        ],
+        "special": [
+          {"attaque_speciale": "Deadly Wings", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 10,
+        "name": "Tetta Kisaki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Deceptive Strike", "degats": 60},
+          {"attaque_2": "Sly Kick", "degats": 50},
+          {"attaque_3": "Shadow Stab", "degats": 70},
+          {"attaque_4": "Trickster's Gambit", "degats": 80}
+        ],
+        "special": [
+          {"attaque_speciale": "Illusionary Assassination", "degats": 150}
+        ],
+        "sante": 900
+      }
+    ]
+  }
+  
