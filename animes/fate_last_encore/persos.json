@@ -1,3 +1,144 @@
 {
-    
+    "personnages": [
+        {
+            "id": 1,
+            "name": "Hakuno Kishinami",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Unleashed Form", "degats": 70},
+                {"attaque_2": "Reality Marble: Moon Cell", "degats": 80},
+                {"attaque_3": "Sword of Promised Victory", "degats": 90},
+                {"attaque_4": "Golden Wild Hunt", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Last Encore: Final Resonance", "degats": 180}],
+            "sante": 800
+        },
+        {
+            "id": 2,
+            "name": "Nero Claudius",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Aestus Domus Aurea", "degats": 70},
+                {"attaque_2": "Fatum: The Sword of Victory", "degats": 80},
+                {"attaque_3": "Laus Saint Claudius", "degats": 90},
+                {"attaque_4": "Imperial Privilege", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Theater of Death: Luxuria", "degats": 150}],
+            "sante": 700
+        },
+        {
+            "id": 3,
+            "name": "Tamamo no Mae",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Eightfold Blessing of Amaterasu", "degats": 70},
+                {"attaque_2": "Fimbulwinter's Jade Seal", "degats": 80},
+                {"attaque_3": "Nine-Tailed Mystic Fox", "degats": 90},
+                {"attaque_4": "Curse of Separation", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Cage of Eternal Flames", "degats": 150}],
+            "sante": 900
+        },
+        {
+            "id": 4,
+            "name": "Saber Alter",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Excalibur Morgan", "degats": 70},
+                {"attaque_2": "Vortigern: Hammer of the Vile King", "degats": 80},
+                {"attaque_3": "Avalon: The Everdistant Utopia", "degats": 90},
+                {"attaque_4": "Dark Excalibur", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Last Encore: Blackened Sword", "degats": 180}],
+            "sante": 800
+        },
+        {
+            "id": 5,
+            "name": "Jeanne d'Arc",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Luminosite Eternelle", "degats": 70},
+                {"attaque_2": "La Pucelle", "degats": 80},
+                {"attaque_3": "La Reve Ensoleille", "degats": 90},
+                {"attaque_4": "La Pucelle: The Cleansing Flame", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Luminosite Eternelle: The Eternal Flame", "degats": 150}],
+            "sante": 700
+        },
+        {
+            "id": 6,
+            "name": "Archer",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Unlimited Blade Works", "degats": 70},
+                {"attaque_2": "Rho Aias: The Seven Rings that Cover the Fiery Heavens", "degats": 80},
+                {"attaque_3": "Caladbolg II: The Fake Spiral Sword", "degats": 90},
+                {"attaque_4": "Gate of Babylon", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Unlimited Blade Works: The Ultimate Reality Marble", "degats": 180}],
+            "sante": 900
+        },
+        {
+            "id": 7,
+            "name": "Rider",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Ionioi Hetairoi: The Golden Cavalry", "degats": 70},
+                {"attaque_2": "Bellerophon: The Blazing Sword of Piercing Victory", "degats": 80},
+                {"attaque_3": "Pegasus Meteor Fist", "degats": 90},
+                {"attaque_4": "Trojan Horse: The False Mythology", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Ionioi Hetairoi: The Reality Marble of the King", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 8,
+            "name": "Sakura Matou",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Heaven's Feel: The Black Grail", "degats": 70},
+                {"attaque_2": "Zweite Einzbern: The Crest Worms", "degats": 80},
+                {"attaque_3": "Shadow Crisis: The All-Devouring Curse", "degats": 90},
+                {"attaque_4": "Justeaze: The Core of All the Holy Grail Wars", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Heaven's Feel: The Dark Salvation", "degats": 180}],
+            "sante": 700
+        },
+        {
+            "id": 9,
+            "name": "Gilgamesh",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Gate of Babylon", "degats": 70},
+                {"attaque_2": "Enuma Elish: The Star of Creation that Split Heaven and Earth", "degats": 80},
+                {"attaque_3": "Sha Naqba Imuru: The Omniscient Star", "degats": 90},
+                {"attaque_4": "Vimana: The Celestial Chariot", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Gate of Babylon: King's Treasury", "degats": 150}],
+            "sante": 900
+        },
+        {
+            "id": 10,
+            "name": "Caster",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Rule Breaker: The Dagger of the False Covenant", "degats": 70},
+                {"attaque_2": "Prelati's Spellbook: The Divine Authority of the Scribe", "degats": 80},
+                {"attaque_3": "Forbidden Ceremony: The Black Grail", "degats": 90},
+                {"attaque_4": "Nursery Rhyme: The Storybook of the Fairyland", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Caster's Ultimate Incantation", "degats": 180}],
+            "sante": 800
+        }
+    ]
 }

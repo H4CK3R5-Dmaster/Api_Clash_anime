@@ -1,134 +1,144 @@
 {
-    "personnages": [
-        {
-            "id": 1,
-            "name": "Shinichi Izumi",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Right Hand Strike", "degats": 40},
-                {"attaque_2": "Left Hand Strike", "degats": 40},
-                {"attaque_3": "Double Hand Strike", "degats": 80},
-                {"attaque_4": "Headbutt", "degats": 60}
-            ],
-            "special": [{"attaque_spe": "Migi's Transformation", "degats": 120}],
-            "sante": 800
-        },
-        {
-            "id": 2,
-            "name": "Migi",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Blade Strike", "degats": 60},
-                {"attaque_2": "Tendril Whip", "degats": 50},
-                {"attaque_3": "Sharp Spike Thrust", "degats": 70},
-                {"attaque_4": "Parasite Shield", "degats": 0}
-            ],
-            "special": [{"attaque_spe": "Migi's Integration", "degats": 100}],
-            "sante": 1000
-        },
-        {
-            "id": 3,
-            "name": "Satomi Murano",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Defensive Push", "degats": 30},
-                {"attaque_2": "Kick", "degats": 40},
-                {"attaque_3": "Punch", "degats": 40},
-                {"attaque_4": "Slap", "degats": 20}
-            ],
-            "special": [{"attaque_spe": "Murano's Rage", "degats": 80}],
-            "sante": 600
-        },
-        {
-            "id": 4,
-            "name": "Reiko Tamura",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Claw Strike", "degats": 60},
-                {"attaque_2": "Tentacle Thrust", "degats": 70},
-                {"attaque_3": "Parasite Swarm", "degats": 80},
-                {"attaque_4": "Energy Blast", "degats": 90}
-            ],
-            "special": [{"attaque_spe": "Queen's Domination", "degats": 150}],
-            "sante": 900
-        },
-        {
-            "id": 5,
-            "name": "Hideo Shimada",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Stab", "degats": 40},
-                {"attaque_2": "Slash", "degats": 50},
-                {"attaque_3": "Decapitation", "degats": 80},
-                {"attaque_4": "Assault", "degats": 70}
-            ],
-            "special": [{"attaque_spe": "Shimada's Fury", "degats": 120}],
-            "sante": 700
-        },
-        {
-            "id": 6,
-            "name": "Mamoru Uda",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Defensive Block", "degats": 20},
-                {"attaque_2": "Counter Punch", "degats": 40},
-                {"attaque_3": "Low Kick", "degats": 30},
-                {"attaque_4": "Elbow Strike", "degats": 40}
-            ],
-            "special": [{"attaque_spe": "Uda's Revenge", "degats": 100}],
-            "sante": 500
-        },
-        {
-            "id": 7,
-            "name": "Mitsuo",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Sneak Attack", "degats": 30},
-                {"attaque_2": "Chokehold", "degats": 40},
-                {"attaque_3": "Kick Combo", "degats": 60},
-                {"attaque_4": "Disarm", "degats": 20}
-            ],
-            "special": [{"attaque_spe": "Mitsuo's Ambush", "degats": 80}],
-            "sante": 600
-        },
-        {
-            "id": 8,
-            "name": "Tamura's Parasite",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Parasite Swipe", "degats": 50},
-                {"attaque_2": "Tendril Strike", "degats": 60},
-                {"attaque_3": "Tentacle Slam", "degats": 70},
-                {"attaque_4": "Infect", "degats": 0}
-            ],
-            "special": [{"attaque_spe": "Parasitic Onslaught", "degats": 120}],
-            "sante": 800
-        },
-        {
-            "id": 9,
-            "name": "Mamoru's Parasite",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Parasite Claw Swipe", "degats": 40},
-                {"attaque_2": "Tendril Whip", "degats": 50},
-                {"attaque_3": "Parasite Bite", "degats": 30},
-                {"attaque_4": "Parasite Slam", "degats": 60}
-            ],
-            "special": [{"attaque_spe": "Parasite Fusion", "degats": 100}],
-            "sante": 700
-        },
-        {
-            "id": 10,
-            "name": "Kana Kimishima",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Psychic Wave", "degats": 50},
-                {"attaque_2": "Mind Blast", "degats": 60},
-                {"attaque_3": "Telekinetic Push", "degats": 70},
-                {"attaque_4": "Psionic Crush", "degats": 80}
-            ],
-            "special": [{"attaque_spe": "Kimishima's Psychic Fury", "degats": 140}],
-            "sante": 900
-        }
-    ]
+  "personnages": [
+    {
+      "id": 1,
+      "name": "Shinichi Izumi",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Blade Strike", "degats": 70 },
+        { "attaque_2": "Needle Shot", "degats": 90 },
+        { "attaque_3": "Rapid Regeneration", "degats": 0 },
+        { "attaque_4": "Enhanced Senses", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Parasite Control", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 2,
+      "name": "Migi",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Blade Extension", "degats": 80 },
+        { "attaque_2": "Parasite Shield", "degats": 0 },
+        { "attaque_3": "Projectile Shoot", "degats": 100 },
+        { "attaque_4": "Mental Communication", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Migi's Wrath", "degats": 180 }],
+      "sante": 700
+    },
+    {
+      "id": 3,
+      "name": "Reiko Tamura",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Parasite Infestation", "degats": 0 },
+        { "attaque_2": "Tentacle Strike", "degats": 80 },
+        { "attaque_3": "Parasite Control", "degats": 0 },
+        { "attaque_4": "Psychic Abilities", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Mind Domination", "degats": 150 }],
+      "sante": 600
+    },
+    {
+      "id": 4,
+      "name": "Gotou",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Superhuman Strength", "degats": 100 },
+        { "attaque_2": "Regenerative Healing", "degats": 0 },
+        { "attaque_3": "Parasite Control", "degats": 0 },
+        { "attaque_4": "Blade Barrage", "degats": 120 }
+      ],
+      "special": [{ "attaque_spe": "Rampage", "degats": 200 }],
+      "sante": 1500
+    },
+    {
+      "id": 5,
+      "name": "Satomi Murano",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Scream", "degats": 50 },
+        { "attaque_2": "Parasite Detection", "degats": 0 },
+        { "attaque_3": "Defensive Maneuver", "degats": 0 },
+        { "attaque_4": "Dagger Strike", "degats": 60 }
+      ],
+      "special": [{ "attaque_spe": "Willpower", "degats": 100 }],
+      "sante": 500
+    },
+    {
+      "id": 6,
+      "name": "Hideo Shimada",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Parasite Detection", "degats": 0 },
+        { "attaque_2": "Blade Attack", "degats": 80 },
+        { "attaque_3": "Enhanced Speed", "degats": 0 },
+        { "attaque_4": "Acrobatic Maneuvers", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Fatal Strike", "degats": 150 }],
+      "sante": 600
+    },
+    {
+      "id": 7,
+      "name": "Kana Kimishima",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Parasite Detection", "degats": 0 },
+        { "attaque_2": "Psychic Link", "degats": 0 },
+        { "attaque_3": "Telepathy", "degats": 0 },
+        { "attaque_4": "Mind Invasion", "degats": 80 }
+      ],
+      "special": [{ "attaque_spe": "Thought Control", "degats": 120 }],
+      "sante": 500
+    },
+    {
+      "id": 8,
+      "name": "Tamura",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Blade Strike", "degats": 70 },
+        { "attaque_2": "Needle Shot", "degats": 90 },
+        { "attaque_3": "Parasite Control", "degats": 0 },
+        { "attaque_4": "Parasite Shield", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Parasite Fusion", "degats": 180 }],
+      "sante": 700
+    },
+    {
+      "id": 9,
+      "name": "Yuko Tachikawa",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Parasite Detection", "degats": 0 },
+        { "attaque_2": "Defensive Maneuver", "degats": 0 },
+        { "attaque_3": "Blade Attack", "degats": 80 },
+        { "attaque_4": "Dual Blades", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Rapid Assault", "degats": 150 }],
+      "sante": 600
+    },
+    {
+      "id": 10,
+      "name": "Kazuyuki Izumi",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Parasite Detection", "degats": 0 },
+        { "attaque_2": "Blade Strike", "degats": 70 },
+        { "attaque_3": "Blade Barrage", "degats": 120 },
+        { "attaque_4": "Defensive Stance", "degats": 0 }
+      ],
+      "special": [{ "attaque_spe": "Ruthless Assault", "degats": 200 }],
+      "sante": 800
+    }
+  ]
 }

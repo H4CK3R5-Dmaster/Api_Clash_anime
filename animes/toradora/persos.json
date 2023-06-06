@@ -1,3 +1,145 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Ryuuji Takasu",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Poing de l'amitié", "degats": 70},
+          {"attaque_2": "Coup de balai", "degats": 80},
+          {"attaque_3": "Déclaration d'amour", "degats": 90},
+          {"attaque_4": "Câlin réconfortant", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Cuisson de Ryuuji", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Taiga Aisaka",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Griffes de tigre", "degats": 70},
+          {"attaque_2": "Tornade de peluches", "degats": 80},
+          {"attaque_3": "Furie du dragon", "degats": 90},
+          {"attaque_4": "Cri de guerre", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Tempête de l'amour", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "name": "Minori Kushieda",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sourire éblouissant", "degats": 70},
+          {"attaque_2": "Danse énergique", "degats": 80},
+          {"attaque_3": "Éclat de rire contagieux", "degats": 90},
+          {"attaque_4": "Enthousiasme débordant", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Feu intérieur", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "name": "Ami Kawashima",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Regard perçant", "degats": 70},
+          {"attaque_2": "Remarque cinglante", "degats": 80},
+          {"attaque_3": "Sourire hypocrite", "degats": 90},
+          {"attaque_4": "Manipulation émotionnelle", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Double jeu", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 5,
+        "name": "Yusaku Kitamura",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Apparence calme", "degats": 70},
+          {"attaque_2": "Discours inspirant", "degats": 80},
+          {"attaque_3": "Volonté de fer", "degats": 90},
+          {"attaque_4": "Soutien inébranlable", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Kitamura Burst", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "name": "Kihara Maya",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sourire envoûtant", "degats": 70},
+          {"attaque_2": "Charme irrésistible", "degats": 80},
+          {"attaque_3": "Manipulation subtile", "degats": 90},
+          {"attaque_4": "Rupture de façade", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Hypnose mentale", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 7,
+        "name": "Haruta Kawashima",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Analyse précise", "degats": 70},
+          {"attaque_2": "Intelligence supérieure", "degats": 80},
+          {"attaque_3": "Mémoire infaillible", "degats": 90},
+          {"attaque_4": "Détective amateur", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Révélation ultime", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "name": "Noto Hisamitsu",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Timidité adorable", "degats": 70},
+          {"attaque_2": "Soutien inconditionnel", "degats": 80},
+          {"attaque_3": "Rires contagieux", "degats": 90},
+          {"attaque_4": "Confession maladroite", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Amour inavoué", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 9,
+        "name": "Sumire Kano",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Regard distant", "degats": 70},
+          {"attaque_2": "Lecture passionnée", "degats": 80},
+          {"attaque_3": "Expression artistique", "degats": 90},
+          {"attaque_4": "Sensibilité profonde", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Monde intérieur", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "name": "Kawashima Kotori",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Charisme naturel", "degats": 70},
+          {"attaque_2": "Compétence organisationnelle", "degats": 80},
+          {"attaque_3": "Leadership inspirant", "degats": 90},
+          {"attaque_4": "Patience infinie", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Coordination parfaite", "degats": 150}],
+        "sante": 800
+      }
+    ]
+  }
+  

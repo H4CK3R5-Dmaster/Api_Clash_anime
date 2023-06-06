@@ -1,3 +1,144 @@
 {
-    
+    "personnages": [
+        {
+            "id": 1,
+            "name": "Tetsuya Kuroko",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Misdirection", "degats": 50},
+                {"attaque_2": "Ignite Pass", "degats": 60},
+                {"attaque_3": "Vanishing Drive", "degats": 70},
+                {"attaque_4": "Quasi Emperor Eye", "degats": 80}
+            ],
+            "special": [{"attaque_spe": "Phantom Shot", "degats": 120}],
+            "sante": 600
+        },
+        {
+            "id": 2,
+            "name": "Taiga Kagami",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Jumping Power Dunk", "degats": 70},
+                {"attaque_2": "Meteor Jam", "degats": 80},
+                {"attaque_3": "Burning Dunk", "degats": 90},
+                {"attaque_4": "Zone Buster", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Zone Breaker", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 3,
+            "name": "Ryota Kise",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Perfect Copy", "degats": 60},
+                {"attaque_2": "Meteor Jam Kai", "degats": 70},
+                {"attaque_3": "Kise Ryota Version 2.0", "degats": 80},
+                {"attaque_4": "Perfect Copy: Zone", "degats": 90}
+            ],
+            "special": [{"attaque_spe": "Perfect Copy: Perfect Drive", "degats": 130}],
+            "sante": 700
+        },
+        {
+            "id": 4,
+            "name": "Shintaro Midorima",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Full Court Shot", "degats": 70},
+                {"attaque_2": "Deep Three", "degats": 80},
+                {"attaque_3": "Hawk Eye", "degats": 90},
+                {"attaque_4": "Emperor Eye", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Super-Long Range Three-Pointer", "degats": 140}],
+            "sante": 600
+        },
+        {
+            "id": 5,
+            "name": "Seijuro Akashi",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Emperor Eye", "degats": 60},
+                {"attaque_2": "Ankle Break", "degats": 70},
+                {"attaque_3": "Perfect Pass", "degats": 80},
+                {"attaque_4": "Zone Defense", "degats": 90}
+            ],
+            "special": [{"attaque_spe": "Emperor Eye: Emperor Time", "degats": 130}],
+            "sante": 800
+        },
+        {
+            "id": 6,
+            "name": "Atsushi Murasakibara",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Thor's Hammer", "degats": 80},
+                {"attaque_2": "Big Bang", "degats": 90},
+                {"attaque_3": "Wall Defense", "degats": 100},
+                {"attaque_4": "Zone Defense", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Thor's Hammer: Ragnarok", "degats": 150}],
+            "sante": 900
+        },
+        {
+            "id": 7,
+            "name": "Atushi Wakamatsu",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Dunk Shot", "degats": 70},
+                {"attaque_2": "Tomahawk Dunk", "degats": 80},
+                {"attaque_3": "Alley-Oop", "degats": 90},
+                {"attaque_4": "Windmill Dunk", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Meteoric Dunk", "degats": 140}],
+            "sante": 700
+        },
+        {
+            "id": 8,
+            "name": "Daiki Aomine",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Formless Shot", "degats": 80},
+                {"attaque_2": "Meteor Jam", "degats": 90},
+                {"attaque_3": "Zone Break", "degats": 100},
+                {"attaque_4": "Lightning Dribble", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Zone Break: Perfect Drive", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 9,
+            "name": "Riko Aida",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Strategy Analysis", "degats": 50},
+                {"attaque_2": "Cheer Boost", "degats": 60},
+                {"attaque_3": "Training Regimen", "degats": 70},
+                {"attaque_4": "Motivational Speech", "degats": 80}
+            ],
+            "special": [{"attaque_spe": "Zone Tactic: Full Court Press", "degats": 120}],
+            "sante": 500
+        },
+        {
+            "id": 10,
+            "name": "Kuroko no Basket",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Misdirection Overflow", "degats": 80},
+                {"attaque_2": "Vanishing Drive", "degats": 90},
+                {"attaque_3": "Ignite Pass Kai", "degats": 100},
+                {"attaque_4": "Quasi Emperor Eye Zone", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Phantom Shot: Cyclone Dunk", "degats": 160}],
+            "sante": 700
+        }
+    ]
 }

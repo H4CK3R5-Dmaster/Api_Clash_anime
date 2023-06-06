@@ -1,3 +1,148 @@
 {
-    
+    "personnages": [
+        {
+            "id": 1,
+            "name": "Ranma Saotome (garçon)",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "Ranma (fille)", "multiplier": 0.8},
+                {"transformation_2": "Ranma (panda)", "multiplier": 1.2},
+                {"transformation_3": "Ranma (vieux)", "multiplier": 0.5}
+            ],
+            "attaques": [
+                {"attaque_1": "Hiryu Shoten Ha", "degats": 80},
+                {"attaque_2": "Moko Takabisha", "degats": 90},
+                {"attaque_3": "Shishi Hokodan", "degats": 100},
+                {"attaque_4": "Umi Sen Ken", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Moko-Ranma", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 2,
+            "name": "Akane Tendo",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Mouko Takabisha", "degats": 70},
+                {"attaque_2": "Tate Shishi Hokodan", "degats": 80},
+                {"attaque_3": "Ryusei Kick", "degats": 90},
+                {"attaque_4": "Mae Geri", "degats": 60}
+            ],
+            "special": [{"attaque_spe": "Moko Takabisha", "degats": 180}],
+            "sante": 700
+        },
+        {
+            "id": 3,
+            "name": "Ryoga Hibiki",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Shishi Hokodan", "degats": 70},
+                {"attaque_2": "Bakusai Tenketsu", "degats": 80},
+                {"attaque_3": "Shi Shi Hokodan", "degats": 90},
+                {"attaque_4": "Hiryu Shoten Ha", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Bakusai Tenketsu - Maximum Power", "degats": 150}],
+            "sante": 900
+        },
+        {
+            "id": 4,
+            "name": "Shampoo",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Moko Takabisha", "degats": 80},
+                {"attaque_2": "Bakusai Tenketsu", "degats": 90},
+                {"attaque_3": "Ran Ran Ruu", "degats": 100},
+                {"attaque_4": "Chestnut Fist", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Moko Takabisha - Enhanced", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 5,
+            "name": "Tatewaki Kuno",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Bakusai Tenketsu", "degats": 70},
+                {"attaque_2": "Kachuzan no Kamae", "degats": 80},
+                {"attaque_3": "Kamuikyaku", "degats": 90},
+                {"attaque_4": "Tsubame Gaeshi", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Bakusai Tenketsu - Hundred Strikes", "degats": 180}],
+            "sante": 700
+        },
+        {
+            "id": 6,
+            "name": "Ukyo Kuonji",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Okonomiyaki Ressha", "degats": 80},
+                {"attaque_2": "Shinobizukuri", "degats": 90},
+                {"attaque_3": "Happo Daikarin", "degats": 100},
+                {"attaque_4": "Spatula Throw", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Okonomiyaki Ressha - Great Ride", "degats": 150}],
+            "sante": 800
+        },
+        {
+            "id": 7,
+            "name": "Happosai",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Happo-Fire Burst", "degats": 70},
+                {"attaque_2": "Happo-Fire Burst - Explosive", "degats": 80},
+                {"attaque_3": "Happo-Fire Burst - Full Power", "degats": 90},
+                {"attaque_4": "Happo-Fire Burst - Final Blast", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Happo-Fire Burst - Maximum Destruction", "degats": 180}],
+            "sante": 700
+        },
+        {
+            "id": 8,
+            "name": "Kodachi Kuno",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Rhythmic Gymnastics Ribbon Dance", "degats": 70},
+                {"attaque_2": "Rhythmic Gymnastics Ribbon Snake", "degats": 80},
+                {"attaque_3": "Rhythmic Gymnastics Ribbon Spiral", "degats": 90},
+                {"attaque_4": "Rhythmic Gymnastics Ribbon Storm", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Rhythmic Gymnastics Ribbon of Love", "degats": 150}],
+            "sante": 600
+        },
+        {
+            "id": 9,
+            "name": "Genma Saotome (panda)",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Panda Punch", "degats": 70},
+                {"attaque_2": "Panda Kick", "degats": 80},
+                {"attaque_3": "Panda Roll", "degats": 90},
+                {"attaque_4": "Panda Slam", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Panda Fury", "degats": 180}],
+            "sante": 800
+        },
+        {
+            "id": 10,
+            "name": "Cologne",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Acupoint Activation", "degats": 70},
+                {"attaque_2": "Acupoint Pressure", "degats": 80},
+                {"attaque_3": "Acupoint Strike", "degats": 90},
+                {"attaque_4": "Acupoint Paralysis", "degats": 100}
+            ],
+            "special": [{"attaque_spe": "Acupoint Explosion", "degats": 180}],
+            "sante": 700
+        }
+    ]
 }

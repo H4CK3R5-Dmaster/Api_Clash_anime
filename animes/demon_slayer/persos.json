@@ -4,131 +4,153 @@
             "id": 1,
             "name": "Tanjiro Kamado",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Water Breathing: Form One - Water Surface Slash", "degats": 50},
-                {"attaque_2": "Water Breathing: Form Two - Water Wheel", "degats": 60},
-                {"attaque_3": "Water Breathing: Form Three - Waterfall Basin", "degats": 70},
-                {"attaque_4": "Hinokami Kagura", "degats": 80}
+                {"attaque_1": "Water Breathing", "degats": 70},
+                {"attaque_2": "Dance of the Fire God", "degats": 90},
+                {"attaque_3": "Hinokami Kagura", "degats": 100},
+                {"attaque_4": "Nichirin Blade", "degats": 80}
             ],
-            "special": [{"attaque_spe": "Fire Breathing: Dance of the Fire God", "degats": 150}],
-            "sante": 900
+            "special": [{"attaque_spe": "Eleventh Form: Transparent World", "degats": 150}],
+            "sante": 800
         },
         {
             "id": 2,
             "name": "Nezuko Kamado",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Blood Demon Art: Exploding Blood", "degats": 60},
-                {"attaque_2": "Blood Demon Art: Blood Burst", "degats": 70},
-                {"attaque_3": "Blood Demon Art: Blood Barrage", "degats": 80},
-                {"attaque_4": "Blood Demon Art: Blood Ignite", "degats": 90}
+                {"attaque_1": "Blood Demon Art: Exploding Blood", "degats": 80},
+                {"attaque_2": "Blood Demon Art: Demon Claw", "degats": 70},
+                {"attaque_3": "Blood Demon Art: Blood Burst", "degats": 90},
+                {"attaque_4": "Blood Demon Art: Blood Swarm", "degats": 60}
             ],
-            "special": [],
-            "sante": 800
-        },
-        {
-            "id": 3,
-            "name": "Zenitsu Agatsuma",
-            "avatar": "",
-            "attaques": [
-                {"attaque_1": "Thunder Breathing: First Form - Thunderclap and Flash", "degats": 50},
-                {"attaque_2": "Thunder Breathing: Second Form - Rising Thunder", "degats": 60},
-                {"attaque_3": "Thunder Breathing: Fifth Form - Thunder Swarm", "degats": 70},
-                {"attaque_4": "Thunderclap and Flash Six Fold", "degats": 80}
-            ],
-            "special": [],
+            "special": [{"attaque_spe": "Blood Demon Art: Blood Burst - Exploding Blood", "degats": 180}],
             "sante": 700
         },
         {
-            "id": 4,
-            "name": "Inosuke Hashibira",
+            "id": 3,
+            "name": "Kyojuro Rengoku",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Beast Breathing: First Form - Beast Fangs", "degats": 50},
-                {"attaque_2": "Beast Breathing: Second Form - Beast Thunderclap", "degats": 60},
-                {"attaque_3": "Beast Breathing: Third Form - Beast Spear", "degats": 70},
-                {"attaque_4": "Beast Breathing: Seventh Form - Gatling Fangs", "degats": 80}
+                {"attaque_1": "Flame Breathing", "degats": 80},
+                {"attaque_2": "Flaming Sun Slash", "degats": 90},
+                {"attaque_3": "Flame Tiger Tantrum", "degats": 100},
+                {"attaque_4": "Flame Hashira Technique: Exploding Flames", "degats": 70}
             ],
-            "special": [],
-            "sante": 850
+            "special": [{"attaque_spe": "Eleventh Form: Flame Tiger", "degats": 200}],
+            "sante": 900
+        },
+        {
+            "id": 4,
+            "name": "Muzan Kibutsuji",
+            "avatar": "",
+            "transformations": [
+                {"transformation_1": "First Form", "multiplier": 1},
+                {"transformation_2": "Final Form", "multiplier": 2},
+                {"transformation_3": "Muzan's True Form", "multiplier": 10}
+            ],
+            "attaques": [
+                {"attaque_1": "Blood Demon Art: Blood Burst", "degats": 80},
+                {"attaque_2": "Blood Demon Art: Blood Whips", "degats": 90},
+                {"attaque_3": "Blood Demon Art: Blood Manipulation", "degats": 100},
+                {"attaque_4": "Blood Demon Art: Blood Explosion", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Blood Demon Art: Blood Moon", "degats": 200}],
+            "sante": 1500
         },
         {
             "id": 5,
             "name": "Giyu Tomioka",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Water Breathing: Form Ten - Constant Flux", "degats": 60},
-                {"attaque_2": "Water Breathing: Form Eleven - Dead Calm", "degats": 70},
-                {"attaque_3": "Water Breathing: Form Twelve - Ripple Floating Water", "degats": 80},
-                {"attaque_4": "Water Breathing: Form Thirteen - Nada Surface Slash", "degats": 90}
+                {"attaque_1": "Water Breathing", "degats": 70},
+                {"attaque_2": "Eleventh Form: Dead Calm", "degats": 80},
+                {"attaque_3": "Eleventh Form: Dead Calm - Second", "degats": 90},
+                {"attaque_4": "Eleventh Form: Dead Calm - Third", "degats": 100}
             ],
-            "special": [{"attaque_spe": "Water Breathing: Form Fifteen - Serpent Hysteric", "degats": 160}],
-            "sante": 1000
+            "special": [{"attaque_spe": "Eleventh Form: Dead Calm - Fourth", "degats": 180}],
+            "sante": 800
         },
         {
             "id": 6,
-            "name": "Kyojuro Rengoku",
+            "name": "Akaza",
             "avatar": "",
-            "attaques": [
-                {"attaque_1": "Flame Breathing: First Form - Flame Flash", "degats": 60},
-                {"attaque_2": "Flame Breathing: Second Form - Rising Scorching Sun", "degats": 70},
-                {"attaque_3": "Flame Breathing: Third Form - Smoke Tigers", "degats": 80},
-                {"attaque_4": "Flame Breathing: Fifth Form - Flame Tiger", "degats": 90}
+            "transformations": [
+                {"transformation_1": "Human Form", "multiplier": 1},
+                {"transformation_2": "Demon Form", "multiplier": 2},
+                {"transformation_3": "Upper Rank 3", "multiplier": 5}
             ],
-            "special": [{"attaque_spe": "Flame Breathing: Ninth Form - Rengoku's Wrath", "degats": 180}],
-            "sante": 1100
+            "attaques": [
+                {"attaque_1": "Blood Demon Art: Flying Blood", "degats": 80},
+                {"attaque_2": "Blood Demon Art: Blood Cleaver", "degats": 90},
+                {"attaque_3": "Blood Demon Art: Blood Spike", "degats": 100},
+                {"attaque_4": "Blood Demon Art: Blood Burst", "degats": 70}
+            ],
+            "special": [{"attaque_spe": "Blood Demon Art: Annihilation", "degats": 200}],
+            "sante": 1200
         },
         {
             "id": 7,
             "name": "Shinobu Kocho",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Insect Breathing: First Form - Butterfly Dance: Caprice", "degats": 40},
-                {"attaque_2": "Insect Breathing: Second Form - Rashomon: Thousand-Stab", "degats": 50},
-                {"attaque_3": "Insect Breathing: Third Form - Butterfly Dance: Nishiki", "degats": 60},
-                {"attaque_4": "Insect Breathing: Fourth Form - Butterfly Dance: Nishio", "degats": 70}
+                {"attaque_1": "Insect Breathing", "degats": 70},
+                {"attaque_2": "Wisteria Poison", "degats": 80},
+                {"attaque_3": "Butterfly Dance: Caprice", "degats": 90},
+                {"attaque_4": "Insect Breathing - Fourth Form: Dead Calm", "degats": 100}
             ],
-            "special": [],
-            "sante": 750
+            "special": [{"attaque_spe": "Butterfly Dance: Red Pupa", "degats": 150}],
+            "sante": 700
         },
         {
             "id": 8,
-            "name": "Mitsuri Kanroji",
+            "name": "Enmu",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Love Breathing: First Form - Love-Breathing", "degats": 50},
-                {"attaque_2": "Love Breathing: Second Form - Love Dance", "degats": 60},
-                {"attaque_3": "Love Breathing: Third Form - Love Flash", "degats": 70},
-                {"attaque_4": "Love Breathing: Fourth Form - Love Dagger", "degats": 80}
+                {"attaque_1": "Blood Demon Art: Blood Cocoon", "degats": 70},
+                {"attaque_2": "Blood Demon Art: Blood Needle", "degats": 80},
+                {"attaque_3": "Blood Demon Art: Blood Blade", "degats": 90},
+                {"attaque_4": "Blood Demon Art: Blood Bullets", "degats": 60}
             ],
-            "special": [],
-            "sante": 850
+            "special": [{"attaque_spe": "Blood Demon Art: Blood Moon - Dream", "degats": 180}],
+            "sante": 600
         },
         {
             "id": 9,
-            "name": "Tengen Uzui",
+            "name": "Zenitsu Agatsuma",
             "avatar": "",
-            "attaques": [
-                {"attaque_1": "Sound Breathing: First Form - Daytime Tiger", "degats": 60},
-                {"attaque_2": "Sound Breathing: Second Form - Evening Dragon", "degats": 70},
-                {"attaque_3": "Sound Breathing: Third Form - Morning Star", "degats": 80},
-                {"attaque_4": "Sound Breathing: Fifth Form - Purple Rain", "degats": 90}
+            "transformations": [
+                {"transformation_1": "Thunder Breathing", "multiplier": 2},
+                {"transformation_2": "Thunderclap and Flash", "multiplier": 5},
+                {"transformation_3": "Sixfold Thunderclap and Flash", "multiplier": 10}
             ],
-            "special": [],
-            "sante": 900
+            "attaques": [
+                {"attaque_1": "First Form: Thunderclap and Flash", "degats": 60},
+                {"attaque_2": "Sixfold: Thunderclap and Flash", "degats": 70},
+                {"attaque_3": "Seventh Form: Honoikazuchi no Kami", "degats": 90},
+                {"attaque_4": "Eighth Form: God Speed", "degats": 80}
+            ],
+            "special": [{"attaque_spe": "God Speed: Ninth Form: Lightning Beast's Nuzzling", "degats": 150}],
+            "sante": 700
         },
         {
             "id": 10,
-            "name": "Gyomei Himejima",
+            "name": "Kyogai",
             "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Stone Breathing: First Form - Stone Pillars", "degats": 70},
-                {"attaque_2": "Stone Breathing: Second Form - Stone Wheel", "degats": 80},
-                {"attaque_3": "Stone Breathing: Third Form - Stone Breaking", "degats": 90},
-                {"attaque_4": "Stone Breathing: Fifth Form - Stone Avalanche", "degats": 100}
+                {"attaque_1": "Blood Demon Art: Arrow Slice", "degats": 80},
+                {"attaque_2": "Blood Demon Art: Arrow Suspend", "degats": 90},
+                {"attaque_3": "Blood Demon Art: Arrow Fall", "degats": 100},
+                {"attaque_4": "Blood Demon Art: Arrow Rip", "degats": 70}
             ],
-            "special": [],
-            "sante": 1200
+            "special": [{"attaque_spe": "Blood Demon Art: Arrow Claw", "degats": 200}],
+            "sante": 800
         }
     ]
 }

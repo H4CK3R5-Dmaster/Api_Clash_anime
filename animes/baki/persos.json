@@ -3,132 +3,142 @@
         {
             "id": 1,
             "name": "Baki Hanma",
-            "avatar": "https://www.ecranlarge.com/media/cache/200x200/uploads/image/001/398/baki-hanma-photo-1398254.jpg",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Baki Punch", "degats": 50},
-                {"attaque_2": "Demon Backhand", "degats": 60},
-                {"attaque_3": "Raging Thunder Kick", "degats": 70},
-                {"attaque_4": "Serpent's Bite", "degats": 80}
+                {"attaque_1": "Ogre Slayer", "degats": 80},
+                {"attaque_2": "Demon Backbreaker", "degats": 100},
+                {"attaque_3": "Demonic Cyclone", "degats": 120},
+                {"attaque_4": "Fang of the Ogre", "degats": 150}
             ],
-            "special": [{"attaque_spe": "Ogre's Roar", "degats": 150}],
-            "sante": 900
+            "special": [{"attaque_spe": "Unchained Ogre", "degats": 200}],
+            "sante": 1000
         },
         {
             "id": 2,
             "name": "Yujiro Hanma",
-            "avatar": "https://i1.sndcdn.com/avatars-mXiyY98uVgqGUCFQ-Mu3v6A-t500x500.jpg",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Ogre Smash", "degats": 80},
-                {"attaque_2": "Dragon Palm Strike", "degats": 90},
-                {"attaque_3": "Tornado Kick", "degats": 100},
-                {"attaque_4": "Lion's Roar", "degats": 110}
+                {"attaque_1": "Ogre's Roar", "degats": 100},
+                {"attaque_2": "Demon's Back", "degats": 120},
+                {"attaque_3": "Demon's Raging Flame", "degats": 150},
+                {"attaque_4": "Ogre's Crushing Fist", "degats": 180}
             ],
-            "special": [{"attaque_spe": "Demon's Rampage", "degats": 200}],
-            "sante": 1000
+            "special": [{"attaque_spe": "Ogre's Rampage", "degats": 250}],
+            "sante": 1500
         },
         {
             "id": 3,
-            "name": "Kaoru Hanayama",
-            "avatar": "https://avatars.steamstatic.com/7e63a31300ede52e72d07451ee1ffc47ac390a2e_full.jpg",
+            "name": "Doppo Orochi",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Bear Claw Strike", "degats": 60},
-                {"attaque_2": "Iron Grip Slam", "degats": 70},
-                {"attaque_3": "Crushing Avalanche", "degats": 80},
-                {"attaque_4": "Bone Crusher Punch", "degats": 90}
+                {"attaque_1": "Orochi Whip Strike", "degats": 70},
+                {"attaque_2": "Orochi Claw", "degats": 90},
+                {"attaque_3": "Orochi Hammer", "degats": 110},
+                {"attaque_4": "Orochi Impact", "degats": 130}
             ],
-            "special": [{"attaque_spe": "Indomitable Force", "degats": 160}],
+            "special": [{"attaque_spe": "Orochi Wave", "degats": 180}],
             "sante": 800
         },
         {
             "id": 4,
-            "name": "Doppo Orochi",
-            "avatar": "https://i.pinimg.com/originals/58/9d/11/589d11d4c68fc5d01119da537adde5c1.jpg",
+            "name": "Kaoru Hanayama",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Dragon Tail Strike", "degats": 50},
-                {"attaque_2": "Tiger's Bite", "degats": 60},
-                {"attaque_3": "Snake Coil Slam", "degats": 70},
-                {"attaque_4": "Crushing Fist of Steel", "degats": 80}
+                {"attaque_1": "Grip of the Ogre", "degats": 90},
+                {"attaque_2": "Demon's Crush", "degats": 110},
+                {"attaque_3": "Ogre's Strike", "degats": 130},
+                {"attaque_4": "Ogre's Impact", "degats": 150}
             ],
-            "special": [{"attaque_spe": "Orochi's Wrath", "degats": 140}],
-            "sante": 700
+            "special": [{"attaque_spe": "Ogre's Fury", "degats": 200}],
+            "sante": 1200
         },
         {
             "id": 5,
-            "name": "Goki Shibukawa",
-            "avatar": "https://qph.cf2.quoracdn.net/main-qimg-e1a86ea34937bec3acb7fbc3334d06f3-pjlq",
+            "name": "Jack Hanma",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Pressure Point Strike", "degats": 40},
-                {"attaque_2": "Joint Lock Takedown", "degats": 50},
-                {"attaque_3": "Nerve Pinch Slam", "degats": 60},
-                {"attaque_4": "Bone Dislocator Punch", "degats": 70}
+                {"attaque_1": "Hanma Storm", "degats": 80},
+                {"attaque_2": "Hanma Tornado", "degats": 100},
+                {"attaque_3": "Hanma Quake", "degats": 120},
+                {"attaque_4": "Hanma Impact", "degats": 150}
             ],
-            "special": [{"attaque_spe": "Shibukawa's Submission", "degats": 120}],
-            "sante": 600
+            "special": [{"attaque_spe": "Hanma Roar", "degats": 200}],
+            "sante": 1000
         },
         {
             "id": 6,
-            "name": "Sikorsky",
-            "avatar": "https://i.pinimg.com/564x/9b/ab/64/9bab64c3e2fb463872a925671c578b81.jpg",
+            "name": "Retsu Kaioh",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Blade Storm Slash", "degats": 50},
-                {"attaque_2": "Swift Kick Combo", "degats": 60},
-                {"attaque_3": "Assassin's Strike", "degats": 70},
-                {"attaque_4": "Shadow Claw Slash", "degats": 80}
+                {"attaque_1": "Iron Body Strike", "degats": 70},
+                {"attaque_2": "Bone Crusher", "degats": 90},
+                {"attaque_3": "Thunderbolt Chop", "degats": 110},
+                {"attaque_4": "Raging Thunderbolt", "degats": 130}
             ],
-            "special": [{"attaque_spe": "Lethal Assassin's Dance", "degats": 140}],
-            "sante": 500
+            "special": [{"attaque_spe": "Kaioh Destruction", "degats": 180}],
+            "sante": 800
         },
         {
             "id": 7,
-            "name": "Jack Hanma",
-            "avatar": "https://static.wikia.nocookie.net/baki/images/c/cd/Jack_Hammer.PNG/revision/latest?cb=20160924195915",
+            "name": "Hanma Baki (Young)",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Savage Hammer Fist", "degats": 60},
-                {"attaque_2": "Beast Rampage", "degats": 70},
-                {"attaque_3": "Tornado Slam", "degats": 80},
-                {"attaque_4": "Bone Shatter Punch", "degats": 90}
+                {"attaque_1": "Backbreaker", "degats": 60},
+                {"attaque_2": "Strike of the Ogre", "degats": 80},
+                {"attaque_3": "Demon's Rage", "degats": 100},
+                {"attaque_4": "Ogre's Claw", "degats": 120}
             ],
-            "special": [{"attaque_spe": "Jackhammer Fury", "degats": 160}],
-            "sante": 750
+            "special": [{"attaque_spe": "Ogre's Rampage", "degats": 200}],
+            "sante": 600
         },
         {
             "id": 8,
-            "name": "Kozue Matsumoto",
-            "avatar": "https://static.wikia.nocookie.net/baki/images/1/1c/Kozue_profile.png/revision/latest?cb=20220728200254",
+            "name": "Goki Shibukawa",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Swift Strike", "degats": 30},
-                {"attaque_2": "Graceful Dodge", "degats": 40},
-                {"attaque_3": "Blossom Kick", "degats": 50},
-                {"attaque_4": "Whispering Palm Strike", "degats": 60}
+                {"attaque_1": "Seiken Strike", "degats": 60},
+                {"attaque_2": "Bone Cracker", "degats": 80},
+                {"attaque_3": "Skull Breaker", "degats": 100},
+                {"attaque_4": "Fist of Steel", "degats": 120}
             ],
-            "special": [{"attaque_spe": "Tranquil Lotus Dance", "degats": 100}],
-            "sante": 300
+            "special": [{"attaque_spe": "Iron Bone Palm", "degats": 180}],
+            "sante": 700
         },
         {
             "id": 9,
-            "name": "Retsu Kaioh",
-            "avatar": "https://www.otaquest.com/wp-content/uploads/2020/10/maxresdefault-1-1024x576.jpg",
+            "name": "Katsumi Orochi",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Thunderous Palm Strike", "degats": 50},
-                {"attaque_2": "Crane Wing Kick", "degats": 60},
-                {"attaque_3": "Rolling Wave Slam", "degats": 70},
-                {"attaque_4": "Iron Fist Barrage", "degats": 80}
+                {"attaque_1": "Orochi Kick", "degats": 70},
+                {"attaque_2": "Orochi Punch", "degats": 90},
+                {"attaque_3": "Orochi Elbow", "degats": 110},
+                {"attaque_4": "Orochi Knee", "degats": 130}
             ],
-            "special": [{"attaque_spe": "Roaring Dragon Fist", "degats": 140}],
-            "sante": 650
+            "special": [{"attaque_spe": "Orochi Impact", "degats": 200}],
+            "sante": 800
         },
         {
             "id": 10,
-            "name": "Oliva Biscuit",
-            "avatar": "https://i1.sndcdn.com/artworks-W6rxmGRJbXJCMQzo-iKYxeA-t500x500.jpg",
+            "name": "Kozue Matsumoto",
+            "avatar": "",
+            "transformations": [],
             "attaques": [
-                {"attaque_1": "Granite Punch", "degats": 70},
-                {"attaque_2": "Mountain Crush Slam", "degats": 80},
-                {"attaque_3": "Iron Wall Charge", "degats": 90},
-                {"attaque_4": "Avalanche Tackle", "degats": 100}
+                {"attaque_1": "Damsel Strike", "degats": 50},
+                {"attaque_2": "Heart Kick", "degats": 70},
+                {"attaque_3": "Scream of Desperation", "degats": 90},
+                {"attaque_4": "Fury's Embrace", "degats": 110}
             ],
-            "special": [{"attaque_spe": "Herculean Annihilation", "degats": 180}],
-            "sante": 850
+            "special": [{"attaque_spe": "Fury's Redemption", "degats": 150}],
+            "sante": 500
         }
     ]
 }

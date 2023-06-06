@@ -1,3 +1,145 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Thorfinn",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Double Lames", "degats": 70},
+          {"attaque_2": "Assaut Féroce", "degats": 80},
+          {"attaque_3": "Fureur Viking", "degats": 90},
+          {"attaque_4": "Lancer de Hache", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Rage du Berserker", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Askeladd",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Tir Précis", "degats": 70},
+          {"attaque_2": "Stratégie Rusée", "degats": 80},
+          {"attaque_3": "Épée Mortelle", "degats": 90},
+          {"attaque_4": "Traître Imprévisible", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Frappe Fatale", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 3,
+        "name": "Thorkell",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Masse Dévastatrice", "degats": 70},
+          {"attaque_2": "Cri de Guerre", "degats": 80},
+          {"attaque_3": "Charge Inarrêtable", "degats": 90},
+          {"attaque_4": "Tourbillon Destructeur", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Fureur Viking", "degats": 150}],
+        "sante": 1000
+      },
+      {
+        "id": 4,
+        "name": "Canute",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Stratégie Élaborée", "degats": 70},
+          {"attaque_2": "Manipulation Politique", "degats": 80},
+          {"attaque_3": "Ordre Royal", "degats": 90},
+          {"attaque_4": "Épée Sacrée", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Couronnement Divin", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 5,
+        "name": "Leif",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sagesse Ancienne", "degats": 70},
+          {"attaque_2": "Protection Divine", "degats": 80},
+          {"attaque_3": "Connaissance des Runes", "degats": 90},
+          {"attaque_4": "Lance Sacrée", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Bénédiction des Dieux", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "name": "Gunnar",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Hache Tranchante", "degats": 70},
+          {"attaque_2": "Force Colossale", "degats": 80},
+          {"attaque_3": "Fureur du Berserker", "degats": 90},
+          {"attaque_4": "Hurlement Sauvage", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Rage Dévastatrice", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 7,
+        "name": "Thors",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Épée Légendaire", "degats": 70},
+          {"attaque_2": "Maîtrise du Combat", "degats": 80},
+          {"attaque_3": "Défense Impénétrable", "degats": 90},
+          {"attaque_4": "Frappe Foudroyante", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Courage du Guerrier", "degats": 150}],
+        "sante": 1000
+      },
+      {
+        "id": 8,
+        "name": "Asgard",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Lance Flamboyante", "degats": 70},
+          {"attaque_2": "Danse Mortelle", "degats": 80},
+          {"attaque_3": "Héroïsme Éternel", "degats": 90},
+          {"attaque_4": "Frappe Céleste", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Fureur Divine", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 9,
+        "name": "Floki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Lame Empoisonnée", "degats": 70},
+          {"attaque_2": "Fourberie Rusée", "degats": 80},
+          {"attaque_3": "Traître Sournois", "degats": 90},
+          {"attaque_4": "Assassinat Éclair", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Mort Silencieuse", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "name": "Bjorn",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Hache Dévastatrice", "degats": 70},
+          {"attaque_2": "Fureur Berserker", "degats": 80},
+          {"attaque_3": "Charge Imparable", "degats": 90},
+          {"attaque_4": "Tourbillon de Destruction", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Rage Sauvage", "degats": 150}],
+        "sante": 900
+      }
+    ]
+  }
+  

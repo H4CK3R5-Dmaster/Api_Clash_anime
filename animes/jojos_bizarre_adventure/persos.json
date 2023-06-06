@@ -1,3 +1,173 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Jotaro Kujo",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Star Platinum: The World", "multiplier": 2},
+          {"transformation_2": "Star Platinum: Star Finger", "multiplier": 3},
+          {"transformation_3": "Star Platinum: Time Stop", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Ora Ora Ora", "degats": 70},
+          {"attaque_2": "Star Finger", "degats": 80},
+          {"attaque_3": "Time Stop", "degats": 90},
+          {"attaque_4": "Star Platinum: The World", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Star Platinum: Time Stop - ZA WARUDO!", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Dio Brando",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Vampire Form", "multiplier": 2},
+          {"transformation_2": "Stand User Form", "multiplier": 3},
+          {"transformation_3": "Ultimate Stand Form", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Muda Muda Muda", "degats": 70},
+          {"attaque_2": "Za Warudo", "degats": 80},
+          {"attaque_3": "Vampire's Kiss", "degats": 90},
+          {"attaque_4": "Road Roller Da!", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Stand Cry: WRYYYY!", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 3,
+        "name": "Giorno Giovanna",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Gold Experience", "multiplier": 2},
+          {"transformation_2": "Gold Experience Requiem", "multiplier": 3},
+          {"transformation_3": "Golden Wind", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Muda Muda Muda", "degats": 70},
+          {"attaque_2": "Gold Experience: Life Shot", "degats": 80},
+          {"attaque_3": "Gold Experience Requiem: Return to Zero", "degats": 90},
+          {"attaque_4": "Golden Wind: Arrivederci", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Golden Wind: Requiem Stand Ability", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "name": "Kira Yoshikage",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Killer Queen", "multiplier": 2},
+          {"transformation_2": "Bites the Dust", "multiplier": 3},
+          {"transformation_3": "Sheer Heart Attack", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Killer Queen: Explosions", "degats": 70},
+          {"attaque_2": "Bites the Dust: Time Reversal", "degats": 80},
+          {"attaque_3": "Sheer Heart Attack: Automatic Stand", "degats": 90},
+          {"attaque_4": "Stray Cat: Air Bullets", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Killer Queen: Bites the Dust", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 5,
+        "name": "Joseph Joestar",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Hermit Purple", "multiplier": 2},
+          {"transformation_2": "Stand User Form", "multiplier": 3},
+          {"transformation_3": "Hamon Overdrive", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hermit Purple: Vine Whips", "degats": 70},
+          {"attaque_2": "Hamon Overdrive: Sunlight Yellow Overdrive", "degats": 80},
+          {"attaque_3": "Stand Cry: NIGERUNDAYO!", "degats": 90},
+          {"attaque_4": "Joestar Secret Technique: Clacker Volley", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Joseph Joestar: Asspull Tactics", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "name": "Yoshikage Kira",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Killer Queen: Bites the Dust", "degats": 70},
+          {"attaque_2": "Killer Queen: Sheer Heart Attack", "degats": 80},
+          {"attaque_3": "Killer Queen: Explosions", "degats": 90},
+          {"attaque_4": "Killer Queen: Stray Cat", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Killer Queen: Killer Queen", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 7,
+        "name": "Josuke Higashikata",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Crazy Diamond: Diamond Punch", "degats": 70},
+          {"attaque_2": "Crazy Diamond: Diamond Restoration", "degats": 80},
+          {"attaque_3": "Crazy Diamond: Diamond Barrier", "degats": 90},
+          {"attaque_4": "Crazy Diamond: Diamond Beatdown", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Crazy Diamond: Josuke's Healing", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "name": "DIO",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Vampire Form", "multiplier": 2},
+          {"transformation_2": "Stand User Form", "multiplier": 3},
+          {"transformation_3": "Ultimate Stand Form", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Muda Muda Muda", "degats": 70},
+          {"attaque_2": "Za Warudo", "degats": 80},
+          {"attaque_3": "Vampire's Kiss", "degats": 90},
+          {"attaque_4": "Road Roller Da!", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Stand Cry: WRYYYY!", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 9,
+        "name": "Jean Pierre Polnareff",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Silver Chariot: Rapier Thrust", "degats": 70},
+          {"attaque_2": "Silver Chariot: Hanged Man's Defense", "degats": 80},
+          {"attaque_3": "Silver Chariot: Arrow Barrage", "degats": 90},
+          {"attaque_4": "Silver Chariot: Piercing Arrow", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Silver Chariot: Polnareff's Revenge", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "name": "Kars",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Pillar Man Form", "multiplier": 2},
+          {"transformation_2": "Light Mode", "multiplier": 3},
+          {"transformation_3": "Ultimate Life Form", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Pillar Men: Ripple Strike", "degats": 70},
+          {"attaque_2": "Pillar Men: Blood Absorption", "degats": 80},
+          {"attaque_3": "Pillar Men: Light Blades", "degats": 90},
+          {"attaque_4": "Pillar Men: Ultimate Being", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Pillar Men: Kars' Ascension", "degats": 150}],
+        "sante": 900
+      }
+    ]
+  }
+  

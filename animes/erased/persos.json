@@ -1,135 +1,144 @@
 {
     "personnages": [
-      {
-        "id": 1,
-        "name": "Satoru Fujinuma",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Revival", "degats": 50},
-          {"attaque_2": "Time Leap", "degats": 60},
-          {"attaque_3": "Rewind", "degats": 70},
-          {"attaque_4": "Final Countdown", "degats": 80}
-        ],
-        "special": [{"attaque_spe": "Revival: The Last Stand", "degats": 150}],
-        "sante": 900
-      },
-      {
-        "id": 2,
-        "name": "Kayo Hinazuki",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Self-Defense", "degats": 40},
-          {"attaque_2": "Escape Plan", "degats": 50},
-          {"attaque_3": "Courage", "degats": 60},
-          {"attaque_4": "Trust", "degats": 70}
-        ],
-        "special": [],
-        "sante": 800
-      },
-      {
-        "id": 3,
-        "name": "Kenya Kobayashi",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Investigation", "degats": 40},
-          {"attaque_2": "Analytical Thinking", "degats": 50},
-          {"attaque_3": "Strategy", "degats": 60},
-          {"attaque_4": "Leadership", "degats": 70}
-        ],
-        "special": [],
-        "sante": 700
-      },
-      {
-        "id": 4,
-        "name": "Hiromi Sugita",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Observation", "degats": 40},
-          {"attaque_2": "Stealth", "degats": 50},
-          {"attaque_3": "Silent Support", "degats": 60},
-          {"attaque_4": "Teamwork", "degats": 70}
-        ],
-        "special": [],
-        "sante": 700
-      },
-      {
-        "id": 5,
-        "name": "Airi Katagiri",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Supportive Presence", "degats": 40},
-          {"attaque_2": "Friendship", "degats": 50},
-          {"attaque_3": "Encouragement", "degats": 60},
-          {"attaque_4": "Hope", "degats": 70}
-        ],
-        "special": [],
-        "sante": 700
-      },
-      {
-        "id": 6,
-        "name": "Gaku Yashiro",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Manipulation", "degats": 50},
-          {"attaque_2": "Deception", "degats": 60},
-          {"attaque_3": "Stalking", "degats": 70},
-          {"attaque_4": "Predator's Gaze", "degats": 80}
-        ],
-        "special": [],
-        "sante": 1000
-      },
-      {
-        "id": 7,
-        "name": "Sachiko Fujinuma",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Motherly Love", "degats": 40},
-          {"attaque_2": "Protective Shield", "degats": 50},
-          {"attaque_3": "Sacrifice", "degats": 60},
-          {"attaque_4": "Unconditional Support", "degats": 70}
-        ],
-        "special": [],
-        "sante": 800
-      },
-      {
-        "id": 8,
-        "name": "Jun Shiratori",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Loyalty", "degats": 40},
-          {"attaque_2": "Guardian Angel", "degats": 50},
-          {"attaque_3": "Rescue Mission", "degats": 60},
-          {"attaque_4": "Fearless Strike", "degats": 70}
-        ],
-        "special": [],
-        "sante": 750
-      },
-      {
-        "id": 9,
-        "name": "Kazu",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Quick Reflexes", "degats": 40},
-          {"attaque_2": "Swift Strike", "degats": 50},
-          {"attaque_3": "Agile Evasion", "degats": 60},
-          {"attaque_4": "Stealthy Approach", "degats": 70}
-        ],
-        "special": [],
-        "sante": 750
-      },
-      {
-        "id": 10,
-        "name": "Osamu",
-        "avatar": "",
-        "attaques": [
-          {"attaque_1": "Sharp Intellect", "degats": 40},
-          {"attaque_2": "Strategic Planning", "degats": 50},
-          {"attaque_3": "Analytical Mind", "degats": 60},
-          {"attaque_4": "Tactical Execution", "degats": 70}
-        ],
-        "special": [],
-        "sante": 750
-      }
+        {
+            "id": 1,
+            "name": "Satoru Fujinuma",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Revival", "degats": 0},
+                {"attaque_2": "Strong Deduction", "degats": 0},
+                {"attaque_3": "Protective Instinct", "degats": 0},
+                {"attaque_4": "Heroic Sacrifice", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Revival: Return by Death", "degats": 0}],
+            "sante": 100
+        },
+        {
+            "id": 2,
+            "name": "Kayo Hinazuki",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Defensive Stance", "degats": 0},
+                {"attaque_2": "Ice Queen's Revenge", "degats": 0},
+                {"attaque_3": "Survivor's Will", "degats": 0},
+                {"attaque_4": "Friendship Bond", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Hopeful Heart", "degats": 0}],
+            "sante": 80
+        },
+        {
+            "id": 3,
+            "name": "Sachiko Fujinuma",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Mother's Love", "degats": 0},
+                {"attaque_2": "Supportive Presence", "degats": 0},
+                {"attaque_3": "Wise Advice", "degats": 0},
+                {"attaque_4": "Protective Shield", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Maternal Sacrifice", "degats": 0}],
+            "sante": 90
+        },
+        {
+            "id": 4,
+            "name": "Kenya Kobayashi",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Strategic Mind", "degats": 0},
+                {"attaque_2": "Inquisitive Nature", "degats": 0},
+                {"attaque_3": "Inspiring Words", "degats": 0},
+                {"attaque_4": "Critical Analysis", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Master Plan", "degats": 0}],
+            "sante": 80
+        },
+        {
+            "id": 5,
+            "name": "Hiromi Sugita",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Quiet Strength", "degats": 0},
+                {"attaque_2": "Hidden Talents", "degats": 0},
+                {"attaque_3": "Observant Eye", "degats": 0},
+                {"attaque_4": "Secret Support", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Unleashed Potential", "degats": 0}],
+            "sante": 70
+        },
+        {
+            "id": 6,
+            "name": "Airi Katagiri",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Caring Heart", "degats": 0},
+                {"attaque_2": "Encouraging Smile", "degats": 0},
+                {"attaque_3": "Loyal Support", "degats": 0},
+                {"attaque_4": "Courageous Spirit", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Eternal Trust", "degats": 0}],
+            "sante": 80
+        },
+        {
+            "id": 7,
+            "name": "Jun Shiratori",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Artistic Soul", "degats": 0},
+                {"attaque_2": "Creative Inspiration", "degats": 0},
+                {"attaque_3": "Expressive Performance", "degats": 0},
+                {"attaque_4": "Emotional Resonance", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Masterpiece Creation", "degats": 0}],
+            "sante": 70
+        },
+        {
+            "id": 8,
+            "name": "Kazu",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Stealthy Approach", "degats": 0},
+                {"attaque_2": "Ninja Strike", "degats": 0},
+                {"attaque_3": "Quick Reflexes", "degats": 0},
+                {"attaque_4": "Mysterious Presence", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Shadow Assassin", "degats": 0}],
+            "sante": 70
+        },
+        {
+            "id": 9,
+            "name": "Osamu",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Analytical Mind", "degats": 0},
+                {"attaque_2": "Strategic Planning", "degats": 0},
+                {"attaque_3": "Supportive Assistance", "degats": 0},
+                {"attaque_4": "Reliable Ally", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Unbreakable Bond", "degats": 0}],
+            "sante": 80
+        },
+        {
+            "id": 10,
+            "name": "Yuuki",
+            "avatar": "",
+            "transformations": [],
+            "attaques": [
+                {"attaque_1": "Cheerful Spirit", "degats": 0},
+                {"attaque_2": "Energetic Support", "degats": 0},
+                {"attaque_3": "Bright Smile", "degats": 0},
+                {"attaque_4": "Kind Heart", "degats": 0}
+            ],
+            "special": [{"attaque_spe": "Radiant Positivity", "degats": 0}],
+            "sante": 70
+        }
     ]
-  }
-  
+}
