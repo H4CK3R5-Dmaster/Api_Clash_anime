@@ -7,8 +7,33 @@ const port = 9999;
 const animeDirectory = './animes';
 
 app.get('/', (req, res) => {
-  res.send('Hey this is Anime API by H4CK3R5-Dmaster 🥳 look /animes or /jeuxvideo and enjoy !');
+  let routes = [];
+  app._router.stack.forEach((middleware) => {
+    if (middleware.route && middleware.route.path !== '/') {
+      routes.push(middleware.route.path);
+    }
+  });
+
+  let explanation = 'Hey, this is the Anime API by H4CK3R5-Dmaster 🥳';
+  explanation += '<br><br>Available routes: ' + routes.join(', ');
+  explanation += '<br><br>Explanation of :animeName and :gameName:';
+  explanation += '<br><br>:animeName and :gameName are dynamic route parameters.';
+  explanation += '<br>They are used to capture variable values in the URL.';
+  explanation += '<br>When you define a route with /animes/:animeName,';
+  explanation += ' the segment :animeName can be replaced with any value in the URL.';
+  explanation += '<br>You can access this value using req.params.animeName';
+  explanation += ' in your processing logic.';
+  explanation += '<br>For example, if you call /animes/OnePiece,';
+  explanation += ' the value "OnePiece" will be captured and used in your logic';
+  explanation += ' to retrieve information about that specific anime.';
+  explanation += '<br>Similarly, you can use :gameName in a route like /games/:gameName';
+  explanation += ' to capture the game name in the URL and use it in your processing.';
+  
+  res.send(explanation);
 });
+
+
+
 
 app.get("/animes", (req, res) => {
   const animesDirectory = './animes';
