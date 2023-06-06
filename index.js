@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 });
 
 app.get("/animes", (req, res) => {
-    const animesDirectory = './animes';
+  const animesDirectory = './animes';
 
   fs.readdir(animesDirectory, (err, files) => {
     if (err) {
@@ -23,10 +23,20 @@ app.get("/animes", (req, res) => {
       const fullPath = path.join(animesDirectory, file);
       return fs.statSync(fullPath).isDirectory();
     });
+    animeFolders.sort();
+    const animésDisponibles = animeFolders.map((folder) => {
+      return { animé: folder };
+    });
 
-    res.json(animeFolders);
+    const response = { "animés disponibles": animésDisponibles };
+    res.json(response);
   });
-})
+});
+
+
+
+
+
 
 app.get('/animes/:animeName', (req, res) => {
   const animeName = req.params.animeName;
