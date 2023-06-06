@@ -1,0 +1,173 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Mario",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Super Mario", "multiplier": 2},
+          {"transformation_2": "Fire Mario", "multiplier": 3},
+          {"transformation_3": "Tanooki Mario", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Jump Attack", "degats": 70},
+          {"attaque_2": "Fireball", "degats": 80},
+          {"attaque_3": "Spin Attack", "degats": 90},
+          {"attaque_4": "Star Power", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Warp Pipe", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Luigi",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Super Luigi", "multiplier": 2},
+          {"transformation_2": "Ice Luigi", "multiplier": 3},
+          {"transformation_3": "Poltergust Luigi", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "High Jump", "degats": 70},
+          {"attaque_2": "Iceball", "degats": 80},
+          {"attaque_3": "Slam Attack", "degats": 90},
+          {"attaque_4": "Green Missile", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Luigi's Mansion", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "name": "Princess Peach",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Princess Peach", "multiplier": 2},
+          {"transformation_2": "Peachette", "multiplier": 3},
+          {"transformation_3": "Peachzilla", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Royal Slap", "degats": 70},
+          {"attaque_2": "Heart Beam", "degats": 80},
+          {"attaque_3": "Parasol Shield", "degats": 90},
+          {"attaque_4": "Toad Brigade", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Peach's Castle", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "name": "Yoshi",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Yoshi", "multiplier": 2},
+          {"transformation_2": "Mega Yoshi", "multiplier": 3},
+          {"transformation_3": "Winged Yoshi", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Egg Throw", "degats": 70},
+          {"attaque_2": "Tongue Whip", "degats": 80},
+          {"attaque_3": "Ground Pound", "degats": 90},
+          {"attaque_4": "Rainbow Run", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Yoshi's Island", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 5,
+        "name": "Toad",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Mushroom Boost", "degats": 70},
+          {"attaque_2": "Pickaxe Strike", "degats": 80},
+          {"attaque_3": "Spore Attack", "degats": 90},
+          {"attaque_4": "Toad Brigade", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Toad's Treasure Hunt", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 6,
+        "name": "Bowser",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Bowser", "multiplier": 2},
+          {"transformation_2": "Giga Bowser", "multiplier": 3},
+          {"transformation_3": "Dark Bowser", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Shell Spin", "degats": 70},
+          {"attaque_2": "Fire Breath", "degats": 80},
+          {"attaque_3": "Claw Swipe", "degats": 90},
+          {"attaque_4": "Bowser Bomb", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Bowser's Castle", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 7,
+        "name": "Toadette",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Toadette", "multiplier": 2},
+          {"transformation_2": "Super Crown Toadette", "multiplier": 3},
+          {"transformation_3": "Giant Toadette", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Super Spin", "degats": 70},
+          {"attaque_2": "Heart Blast", "degats": 80},
+          {"attaque_3": "Mushroom Shield", "degats": 90},
+          {"attaque_4": "Toad Brigade", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Toadette's Wonderland", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "name": "Wario",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Shoulder Bash", "degats": 70},
+          {"attaque_2": "Power Punch", "degats": 80},
+          {"attaque_3": "Gas Attack", "degats": 90},
+          {"attaque_4": "Wario Bike", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Wario's Gold Rush", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 9,
+        "name": "Bowser Jr.",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Paintbrush Whack", "degats": 70},
+          {"attaque_2": "Koopa Shell Toss", "degats": 80},
+          {"attaque_3": "Clown Kart Dash", "degats": 90},
+          {"attaque_4": "Bowser's Fury", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Bowser Jr.'s Playground", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 10,
+        "name": "Rosalina",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Rosalina", "multiplier": 2},
+          {"transformation_2": "Ice Queen Rosalina", "multiplier": 3},
+          {"transformation_3": "Galaxy Rosalina", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Cosmic Spin", "degats": 70},
+          {"attaque_2": "Luma Blast", "degats": 80},
+          {"attaque_3": "Star Shield", "degats": 90},
+          {"attaque_4": "Power Comet", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Rosalina's Observatory", "degats": 150}],
+        "sante": 800
+      }
+    ]
+  }
+  

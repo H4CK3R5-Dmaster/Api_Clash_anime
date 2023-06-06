@@ -1,0 +1,150 @@
+{
+  "personnages": [
+    {
+      "id": 1,
+      "name": "Sonic",
+      "avatar": "",
+      "transformations": [
+        { "transformation_1": "Super Sonic", "multiplier": 2 },
+        { "transformation_2": "Hyper Sonic", "multiplier": 3 }
+      ],
+      "attaques": [
+        { "attaque_1": "Spin Dash", "degats": 70 },
+        { "attaque_2": "Homing Attack", "degats": 80 },
+        { "attaque_3": "Sonic Boost", "degats": 90 },
+        { "attaque_4": "Chaos Control", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Sonic Wind", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 2,
+      "name": "Tails",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Tail Swipe", "degats": 70 },
+        { "attaque_2": "Tornado Spin", "degats": 80 },
+        { "attaque_3": "Aerial Tail Whip", "degats": 90 },
+        { "attaque_4": "Miles Electric", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Tails' Flight", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 3,
+      "name": "Knuckles",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Knuckle Punch", "degats": 70 },
+        { "attaque_2": "Ground Shatter", "degats": 80 },
+        { "attaque_3": "Spike Tornado", "degats": 90 },
+        { "attaque_4": "Emerald Uppercut", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Master Emerald Power", "degats": 150 }],
+      "sante": 900
+    },
+    {
+      "id": 4,
+      "name": "Shadow",
+      "avatar": "",
+      "transformations": [
+        { "transformation_1": "Super Shadow", "multiplier": 2 },
+        { "transformation_2": "Chaos Shadow", "multiplier": 3 }
+      ],
+      "attaques": [
+        { "attaque_1": "Chaos Spear", "degats": 70 },
+        { "attaque_2": "Chaos Blast", "degats": 80 },
+        { "attaque_3": "Chaos Control", "degats": 90 },
+        { "attaque_4": "Shadow Kick", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Shadow Chaos Control", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 5,
+      "name": "Amy",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Piko Piko Hammer Swing", "degats": 70 },
+        { "attaque_2": "Hammer Jump", "degats": 80 },
+        { "attaque_3": "Heart Stomp", "degats": 90 },
+        { "attaque_4": "Love Beam", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Tarot Card Fortune", "degats": 150 }],
+      "sante": 700
+    },
+    {
+      "id": 6,
+      "name": "Silver",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Psychokinesis Throw", "degats": 70 },
+        { "attaque_2": "Psychokinesis Slam", "degats": 80 },
+        { "attaque_3": "Psychokinesis Shield", "degats": 90 },
+        { "attaque_4": "Psychokinesis Burst", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Psychokinesis Fury", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 7,
+      "name": "Rouge",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Bat Dash", "degats": 70 },
+        { "attaque_2": "Jewel Whip", "degats": 80 },
+        { "attaque_3": "Aerial Spin Kick", "degats": 90 },
+        { "attaque_4": "Thief's Sneak", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Treasure Hunt", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 8,
+      "name": "Metal Sonic",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Metal Spin Dash", "degats": 70 },
+        { "attaque_2": "Laser Shot", "degats": 80 },
+        { "attaque_3": "V. Maximum Overdrive", "degats": 90 },
+        { "attaque_4": "Metallic Crush", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "V. Maximum Overdrive V2", "degats": 150 }],
+      "sante": 900
+    },
+    {
+      "id": 9,
+      "name": "Blaze",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Fire Dash", "degats": 70 },
+        { "attaque_2": "Pyrokinetic Tornado", "degats": 80 },
+        { "attaque_3": "Burning Claw", "degats": 90 },
+        { "attaque_4": "Sol Emerald Burst", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Flames of Disaster", "degats": 150 }],
+      "sante": 800
+    },
+    {
+      "id": 10,
+      "name": "Vector",
+      "avatar": "",
+      "transformations": [],
+      "attaques": [
+        { "attaque_1": "Knuckle Sting", "degats": 70 },
+        { "attaque_2": "Crocodile Crush", "degats": 80 },
+        { "attaque_3": "Jaw Slam", "degats": 90 },
+        { "attaque_4": "Sonic Summon", "degats": 100 }
+      ],
+      "special": [{ "attaque_spe": "Vector's Detective Mode", "degats": 150 }],
+      "sante": 900
+    }
+  ]
+}

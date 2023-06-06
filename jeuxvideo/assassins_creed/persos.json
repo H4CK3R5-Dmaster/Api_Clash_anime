@@ -1,0 +1,185 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "nom": "Ezio Auditore",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Throwing Knives", "degats": 80},
+          {"attaque_3": "Sword", "degats": 90},
+          {"attaque_4": "Crossbow", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "nom": "Altair Ibn-La'Ahad",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Short Sword", "degats": 80},
+          {"attaque_3": "Throwing Daggers", "degats": 90},
+          {"attaque_4": "Longbow", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 750
+      },
+      {
+        "id": 3,
+        "nom": "Connor Kenway",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Tomahawk", "degats": 80},
+          {"attaque_3": "Bow", "degats": 90},
+          {"attaque_4": "Rope Dart", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "nom": "Edward Kenway",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Cutlass", "degats": 80},
+          {"attaque_3": "Dual Pistols", "degats": 90},
+          {"attaque_4": "Blowpipe", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 850
+      },
+      {
+        "id": 5,
+        "nom": "Arno Dorian",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Rapier", "degats": 80},
+          {"attaque_3": "Phantom Blade", "degats": 90},
+          {"attaque_4": "Smoke Bomb", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 6,
+        "nom": "Evie Frye",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Kukri", "degats": 80},
+          {"attaque_3": "Cane Sword", "degats": 90},
+          {"attaque_4": "Throwing Knives", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 750
+      },
+      {
+        "id": 7,
+        "nom": "Bayek",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Sickle Sword", "degats": 80},
+          {"attaque_3": "Hunter Bow", "degats": 90},
+          {"attaque_4": "Predator Bow", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 8,
+        "nom": "Kassandra",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Spear", "degats": 80},
+          {"attaque_3": "Sword", "degats": 90},
+          {"attaque_4": "Bow", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 850
+      },
+      {
+        "id": 9,
+        "nom": "Edward Kenway",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Cutlass", "degats": 80},
+          {"attaque_3": "Dual Pistols", "degats": 90},
+          {"attaque_4": "Blowpipe", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "nom": "Alexios",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Assassin", "multiplicateur": 2},
+          {"transformation_2": "Master Assassin", "multiplicateur": 3},
+          {"transformation_3": "Legendary Assassin", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Hidden Blade", "degats": 70},
+          {"attaque_2": "Spear", "degats": 80},
+          {"attaque_3": "Sword", "degats": 90},
+          {"attaque_4": "Bow", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "sante": 850
+      }
+    ]
+  }
+  

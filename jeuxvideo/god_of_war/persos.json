@@ -1,0 +1,149 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "nom": "Kratos",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Kratos", "multiplicateur": 2},
+          {"transformation_2": "Rage of Sparta", "multiplicateur": 3},
+          {"transformation_3": "God of War", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Blades of Chaos", "degats": 70},
+          {"attaque_2": "Spartan Rage", "degats": 80},
+          {"attaque_3": "Leviathan Axe", "degats": 90},
+          {"attaque_4": "Zeus' Fury", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Wrath of the Titans", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "nom": "Atreus",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Talon Bow", "degats": 60},
+          {"attaque_2": "Shock Arrows", "degats": 70},
+          {"attaque_3": "Summon Wolves", "degats": 80},
+          {"attaque_4": "Spartan Kick", "degats": 90}
+        ],
+        "speciale": [{"attaque_speciale": "Gift of Apollo", "degats": 140}],
+        "sante": 600
+      },
+      {
+        "id": 3,
+        "nom": "Baldur",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Frost Punch", "degats": 70},
+          {"attaque_2": "Ground Slam", "degats": 80},
+          {"attaque_3": "Shockwave", "degats": 90},
+          {"attaque_4": "Grapple", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Curse of Immortality", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 4,
+        "nom": "Freya",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Ice Blast", "degats": 70},
+          {"attaque_2": "Healing Touch", "degats": 80},
+          {"attaque_3": "Falcon Summon", "degats": 90},
+          {"attaque_4": "Banshee Scream", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Goddess of Life", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 5,
+        "nom": "Sindri",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Dwarven Hammer", "degats": 70},
+          {"attaque_2": "Smoke Bomb", "degats": 80},
+          {"attaque_3": "Fire Grenade", "degats": 90},
+          {"attaque_4": "Shock Trap", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Master Craftsman", "degats": 150}],
+        "sante": 600
+      },
+      {
+        "id": 6,
+        "nom": "Mimir",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Wisdom Gaze", "degats": 60},
+          {"attaque_2": "Decoy Head", "degats": 70},
+          {"attaque_3": "Storyteller's Voice", "degats": 80},
+          {"attaque_4": "Headbutt", "degats": 90}
+        ],
+        "speciale": [{"attaque_speciale": "Sage's Knowledge", "degats": 140}],
+        "sante": 500
+      },
+      {
+        "id": 7,
+        "nom": "Thor",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Mjolnir Strike", "degats": 70},
+          {"attaque_2": "Thunderstorm", "degats": 80},
+          {"attaque_3": "Lightning Bolt", "degats": 90},
+          {"attaque_4": "Godly Roar", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Fury of Asgard", "degats": 150}],
+        "sante": 850
+      },
+      {
+        "id": 8,
+        "nom": "Magni",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Axe Swing", "degats": 70},
+          {"attaque_2": "War Cry", "degats": 80},
+          {"attaque_3": "Hammer Toss", "degats": 90},
+          {"attaque_4": "Spartan Charge", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Sons of Thor", "degats": 150}],
+        "sante": 750
+      },
+      {
+        "id": 9,
+        "nom": "Faye",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Blessing of Nature", "degats": 70},
+          {"attaque_2": "Summon Animals", "degats": 80},
+          {"attaque_3": "Nature's Wrath", "degats": 90},
+          {"attaque_4": "Sacred Shield", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Mother's Love", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 10,
+        "nom": "Zeus",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Thunderbolt", "degats": 70},
+          {"attaque_2": "Divine Smite", "degats": 80},
+          {"attaque_3": "Heavenly Wrath", "degats": 90},
+          {"attaque_4": "Olympian Roar", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Wrath of the Gods", "degats": 150}],
+        "sante": 900
+      }
+    ]
+  }
+  

@@ -1,0 +1,153 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "nom": "Geralt de Riv",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Sorceleur", "multiplicateur": 2},
+          {"transformation_2": "Sorceleur Muté", "multiplicateur": 3},
+          {"transformation_3": "Sorceleur Légendaire", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Épée en acier", "degats": 70},
+          {"attaque_2": "Épée en argent", "degats": 80},
+          {"attaque_3": "Signe Igni", "degats": 90},
+          {"attaque_4": "Signe Aard", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Signe Quen", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "nom": "Yennefer de Vengerberg",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sortilège de feu", "degats": 60},
+          {"attaque_2": "Sortilège de glace", "degats": 70},
+          {"attaque_3": "Sortilège de foudre", "degats": 80},
+          {"attaque_4": "Télékinésie", "degats": 90}
+        ],
+        "speciale": [{"attaque_speciale": "Tornade de magie", "degats": 140}],
+        "sante": 600
+      },
+      {
+        "id": 3,
+        "nom": "Triss Merigold",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sortilège de feu", "degats": 60},
+          {"attaque_2": "Sortilège de glace", "degats": 70},
+          {"attaque_3": "Sortilège de foudre", "degats": 80},
+          {"attaque_4": "Illusion", "degats": 90}
+        ],
+        "speciale": [{"attaque_speciale": "Nova d'énergie", "degats": 140}],
+        "sante": 600
+      },
+      {
+        "id": 4,
+        "nom": "Ciri",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Jeune Combattante", "multiplicateur": 2},
+          {"transformation_2": "Dame du Temps", "multiplicateur": 3},
+          {"transformation_3": "Héritière de Cintra", "multiplicateur": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Épée de combat", "degats": 70},
+          {"attaque_2": "Téléportation", "degats": 80},
+          {"attaque_3": "Signe de l'Éclair", "degats": 90},
+          {"attaque_4": "Signe du Vent", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Nova de Glace", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 5,
+        "nom": "Jaskier",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Luth enchanté", "degats": 50},
+          {"attaque_2": "Mélodie apaisante", "degats": 60},
+          {"attaque_3": "Provocation", "degats": 70},
+          {"attaque_4": "Lancer de bouteille", "degats": 80}
+        ],
+        "speciale": [{"attaque_speciale": "Ballade émouvante", "degats": 120}],
+        "sante": 400
+      },
+      {
+        "id": 6,
+        "nom": "Yarpen Zigrin",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Hache de guerre", "degats": 70},
+          {"attaque_2": "Coup de bouclier", "degats": 80},
+          {"attaque_3": "Cri de guerre", "degats": 90},
+          {"attaque_4": "Charge féroce", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Bain de sang", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 7,
+        "nom": "Keira Metz",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Sortilège de feu", "degats": 60},
+          {"attaque_2": "Sortilège de glace", "degats": 70},
+          {"attaque_3": "Sortilège de foudre", "degats": 80},
+          {"attaque_4": "Télékinésie", "degats": 90}
+        ],
+        "speciale": [{"attaque_speciale": "Explosion magique", "degats": 140}],
+        "sante": 600
+      },
+      {
+        "id": 8,
+        "nom": "Lambert",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Épée courte", "degats": 70},
+          {"attaque_2": "Épée longue", "degats": 80},
+          {"attaque_3": "Lancer de couteau", "degats": 90},
+          {"attaque_4": "Piège explosif", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Bombe éclairante", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 9,
+        "nom": "Vesemir",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Épée en acier", "degats": 70},
+          {"attaque_2": "Épée en argent", "degats": 80},
+          {"attaque_3": "Signe Igni", "degats": 90},
+          {"attaque_4": "Signe Aard", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Signe Yrden", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "nom": "Eskel",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Épée en acier", "degats": 70},
+          {"attaque_2": "Épée en argent", "degats": 80},
+          {"attaque_3": "Signe Igni", "degats": 90},
+          {"attaque_4": "Signe Aard", "degats": 100}
+        ],
+        "speciale": [{"attaque_speciale": "Signe Axii", "degats": 150}],
+        "sante": 800
+      }
+    ]
+  }
+  
