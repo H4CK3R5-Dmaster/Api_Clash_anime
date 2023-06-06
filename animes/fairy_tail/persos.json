@@ -2,7 +2,7 @@
     "personnages": [
       {
         "id": 1,
-        "nom": "Natsu Dragnir",
+        "name": "Natsu Dragnir",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Dragon Force", "multiplier": 2},
@@ -21,7 +21,7 @@
       },
       {
         "id": 2,
-        "nom": "Lucy Heartfilia",
+        "name": "Lucy Heartfilia",
         "avatar": "",
         "transformations": [],
         "attaques": [
@@ -37,7 +37,7 @@
       },
       {
         "id": 3,
-        "nom": "Erza Scarlet",
+        "name": "Erza Scarlet",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Armor: Heaven's Wheel", "multiplier": 1.5},
@@ -56,7 +56,7 @@
       },
       {
         "id": 4,
-        "nom": "Gray Fullbuster",
+        "name": "Gray Fullbuster",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Ice-Make: Hammer", "multiplier": 1.5},
@@ -75,7 +75,7 @@
       },
       {
         "id": 5,
-        "nom": "Wendy Marvell",
+        "name": "Wendy Marvell",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Dragon Force", "multiplier": 2},
@@ -94,7 +94,7 @@
       },
       {
         "id": 6,
-        "nom": "Gajeel Redfox",
+        "name": "Gajeel Redfox",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Iron Shadow Dragon Mode", "multiplier": 2},
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "nom": "Juvia Lockser",
+        "name": "Juvia Lockser",
         "avatar": "",
         "transformations": [],
         "attaques": [
@@ -129,7 +129,7 @@
       },
       {
         "id": 8,
-        "nom": "Gildarts Clive",
+        "name": "Gildarts Clive",
         "avatar": "",
         "transformations": [],
         "attaques": [
@@ -145,7 +145,7 @@
       },
       {
         "id": 9,
-        "nom": "Laxus Dreyar",
+        "name": "Laxus Dreyar",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Raging Bolt", "multiplier": 1.5},
@@ -164,7 +164,7 @@
       },
       {
         "id": 10,
-        "nom": "Mirajane Strauss",
+        "name": "Mirajane Strauss",
         "avatar": "",
         "transformations": [
           {"transformation_1": "Satan Soul", "multiplier": 1.5},

@@ -1,3 +1,145 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Light Yagami",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Death Note: Heart Attack", "degats": 200},
+          {"attaque_2": "Death Note: Accidental Death", "degats": 80},
+          {"attaque_3": "Strategic Planning", "degats": 90},
+          {"attaque_4": "Manipulation", "degats": 90}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 2,
+        "name": "L",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Deductive Reasoning", "degats": 0},
+          {"attaque_2": "Deception", "degats": 10},
+          {"attaque_3": "Observation", "degats": 20},
+          {"attaque_4": "Strategic Planning", "degats": 50}
+        ],
+        "special": [],
+        "sante": 500
+      },
+      {
+        "id": 3,
+        "name": "Ryuk",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Death Note: Heart Attack", "degats": 200},
+          {"attaque_2": "Death Note: Accidental Death", "degats": 80},
+          {"attaque_3": "Intimidation", "degats": 30},
+          {"attaque_4": "Observation", "degats": 20}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 4,
+        "name": "Near",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Logical Analysis", "degats": 10},
+          {"attaque_2": "Strategic Planning", "degats": 20},
+          {"attaque_3": "Deception", "degats": 10},
+          {"attaque_4": "Observation", "degats": 20}
+        ],
+        "special": [],
+        "sante": 500
+      },
+      {
+        "id": 5,
+        "name": "Mello",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Explosives", "degats": 80},
+          {"attaque_2": "Strategic Planning", "degats": 10},
+          {"attaque_3": "Deception", "degats": 10},
+          {"attaque_4": "Observation", "degats": 20}
+        ],
+        "special": [],
+        "sante": 600
+      },
+      {
+        "id": 6,
+        "name": "Rem",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Death Note: Heart Attack", "degats": 200},
+          {"attaque_2": "Death Note: Accidental Death", "degats": 80},
+          {"attaque_3": "Intimidation", "degats": 20},
+          {"attaque_4": "Observation", "degats": 20}
+        ],
+        "special": [],
+        "sante": 700
+      },
+      {
+        "id": 7,
+        "name": "Misa Amane",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Obsession", "degats": 50},
+          {"attaque_2": "Manipulation", "degats": 20},
+          {"attaque_3": "Deception", "degats": 10},
+          {"attaque_4": "Intimidation", "degats": 20}
+        ],
+        "special": [],
+        "sante": 650
+      },
+      {
+        "id": 8,
+        "name": "Teru Mikami",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Death Note: Heart Attack", "degats": 200},
+          {"attaque_2": "Death Note: Accidental Death", "degats": 80},
+          {"attaque_3": "Fanaticism", "degats": 40},
+          {"attaque_4": "Strategic Planning", "degats": 20}
+        ],
+        "special": [],
+        "sante": 650
+      },
+      {
+        "id": 9,
+        "name": "Matt",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Computer Hacking", "degats": 60},
+          {"attaque_2": "Strategic Planning", "degats": 20},
+          {"attaque_3": "Deception", "degats": 10},
+          {"attaque_4": "Observation", "degats": 10}
+        ],
+        "special": [],
+        "sante": 550
+      },
+      {
+        "id": 10,
+        "name": "Watari",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Strategic Planning", "degats": 10},
+          {"attaque_2": "Deception", "degats": 10},
+          {"attaque_3": "Observation", "degats": 20},
+          {"attaque_4": "Firearms", "degats": 50}
+        ],
+        "special": [],
+        "sante": 450
+      }
+    ]
+  }
+  

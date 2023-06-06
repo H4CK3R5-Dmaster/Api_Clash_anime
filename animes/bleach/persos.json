@@ -1,3 +1,189 @@
 {
-    
-}
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Ichigo Kurosaki",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.5},
+          {"transformation_2": "Bankai: Tensa Zangetsu", "multiplier": 2},
+          {"transformation_3": "Hollow Form", "multiplier": 2.5}
+        ],
+        "attaques": [
+          {"attaque_1": "Getsuga Tensho", "degats": 80},
+          {"attaque_2": "Zangetsu Strike", "degats": 70},
+          {"attaque_3": "Getsuga Kuroi", "degats": 90},
+          {"attaque_4": "Mugetsu", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Bankai: Getsuga Jujisho", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 2,
+        "name": "Rukia Kuchiki",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.2}
+        ],
+        "attaques": [
+          {"attaque_1": "Sode no Shirayuki", "degats": 70},
+          {"attaque_2": "Gokei", "degats": 60},
+          {"attaque_3": "Hakka no Togame", "degats": 80},
+          {"attaque_4": "Shikai: Hakka no Togame", "degats": 100}
+        ],
+        "special": [
+          {"attaque_speciale": "Shikai: Dance of the Sodeno Shirayuki", "degats": 130}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "name": "Byakuya Kuchiki",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.3},
+          {"transformation_2": "Bankai: Senbonzakura Kageyoshi", "multiplier": 1.8}
+        ],
+        "attaques": [
+          {"attaque_1": "Senbonzakura", "degats": 80},
+          {"attaque_2": "Shikai: Senbonzakura Kageyoshi", "degats": 70},
+          {"attaque_3": "Senkei: Senbonzakura Kageyoshi", "degats": 90},
+          {"attaque_4": "Bankai: Senkei Senbonzakura Kageyoshi", "degats": 110}
+        ],
+        "special": [
+          {"attaque_speciale": "Bankai: Senbonzakura Kageyoshi: Nijū Ichijō Zanpakutō", "degats": 140}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 4,
+        "name": "Toshiro Hitsugaya",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.4},
+          {"transformation_2": "Shikai: Hyorinmaru", "multiplier": 1.7}
+        ],
+        "attaques": [
+          {"attaque_1": "Hyorinmaru", "degats": 70},
+          {"attaque_2": "Ryusenka", "degats": 60},
+          {"attaque_3": "Shikai: Hyorinmaru: Tensho", "degats": 80},
+          {"attaque_4": "Bankai: Daiguren Hyorinmaru", "degats": 100}
+        ],
+        "special": [
+          {"attaque_speciale": "Bankai: Ryūsenka: Sennen Hyōrō", "degats": 130}
+        ],
+        "sante": 850
+      },
+      {
+        "id": 5,
+        "name": "Kenpachi Zaraki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Kendo", "degats": 80},
+          {"attaque_2": "Bakudō #99: Kin", "degats": 70},
+          {"attaque_3": "Ikkotsu", "degats": 90},
+          {"attaque_4": "Nozarashi", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Bankai: Tengumaru", "degats": 150}
+        ],
+        "sante": 1000
+      },
+      {
+        "id": 6,
+        "name": "Sosuke Aizen",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.5},
+          {"transformation_2": "Hogyoku Fusion", "multiplier": 2.2}
+        ],
+        "attaques": [
+          {"attaque_1": "Kyoka Suigetsu", "degats": 90},
+          {"attaque_2": "Hadō #90: Kurohitsugi", "degats": 100},
+          {"attaque_3": "Fragor", "degats": 110},
+          {"attaque_4": "Kurohitsugi", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Mugetsu", "degats": 180}
+        ],
+        "sante": 1200
+      },
+      {
+        "id": 7,
+        "name": "Ulquiorra Cifer",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Resurrección: Segunda Etapa", "multiplier": 2.5}
+        ],
+        "attaques": [
+          {"attaque_1": "Lanza del Relámpago", "degats": 90},
+          {"attaque_2": "Cero Oscuras", "degats": 100},
+          {"attaque_3": "Cero", "degats": 80},
+          {"attaque_4": "Gran Rey Cero", "degats": 120}
+        ],
+        "special": [
+          {"attaque_speciale": "Resurrección: Murciélago", "degats": 160}
+        ],
+        "sante": 950
+      },
+      {
+        "id": 8,
+        "name": "Grimmjow Jaegerjaquez",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Resurrección", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Gran Rey Cero", "degats": 80},
+          {"attaque_2": "Cero", "degats": 70},
+          {"attaque_3": "Pantera", "degats": 90},
+          {"attaque_4": "Desgarrón", "degats": 100}
+        ],
+        "special": [
+          {"attaque_speciale": "Resurrección: Segunda Etapa", "degats": 140}
+        ],
+        "sante": 900
+      },
+      {
+        "id": 9,
+        "name": "Yoruichi Shihoin",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shunko", "multiplier": 1.6}
+        ],
+        "attaques": [
+          {"attaque_1": "Neko", "degats": 70},
+          {"attaque_2": "Hassō no Kamae", "degats": 60},
+          {"attaque_3": "Shunko: Raiju Senkei", "degats": 80},
+          {"attaque_4": "Shunpo: Onibi", "degats": 100}
+        ],
+        "special": [
+          {"attaque_speciale": "Shunko: Raiju Senkei: Shunryu Kokubyo Senkei", "degats": 130}
+        ],
+        "sante": 800
+      },
+      {
+        "id": 10,
+        "name": "Kisuke Urahara",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Shinigami Form", "multiplier": 1.4},
+          {"transformation_2": "Bankai: Kannonbiraki Benihime Aratame", "multiplier": 1.8}
+        ],
+        "attaques": [
+          {"attaque_1": "Bakudo #99: Kin", "degats": 70},
+          {"attaque_2": "Hadō #91: Senjū Kōten Taihō", "degats": 80},
+          {"attaque_3": "Shikai: Benihime", "degats": 60},
+          {"attaque_4": "Bankai: Kannonbiraki Benihime Aratame: Saka no Yo no Kotowari", "degats": 110}
+        ],
+        "special": [
+          {"attaque_speciale": "Bankai: Kannonbiraki Benihime Aratame: Sai", "degats": 150}
+        ],
+        "sante": 850
+      }
+    ]
+  }
+  
