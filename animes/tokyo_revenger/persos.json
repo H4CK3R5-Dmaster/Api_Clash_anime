@@ -12,7 +12,7 @@
           {"attaque_4": "Determination", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Last Resort", "degats": 150}
+          {"attaque_spe": "Last Resort", "degats": 150}
         ],
         "sante": 1000
       },
@@ -28,7 +28,7 @@
           {"attaque_4": "Dragon Uppercut", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Dragon Fury", "degats": 150}
+          {"attaque_spe": "Dragon Fury", "degats": 150}
         ],
         "sante": 1200
       },
@@ -44,7 +44,7 @@
           {"attaque_4": "Shockwave Strike", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Thunderstorm Fury", "degats": 150}
+          {"attaque_spe": "Thunderstorm Fury", "degats": 150}
         ],
         "sante": 1100
       },
@@ -60,7 +60,7 @@
           {"attaque_4": "Trickster's Gambit", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Illusionary Assassination", "degats": 150}
+          {"attaque_spe": "Illusionary Assassination", "degats": 150}
         ],
         "sante": 900
       },
@@ -76,7 +76,7 @@
           {"attaque_4": "Psychic Wave", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Psycho Blast", "degats": 150}
+          {"attaque_spe": "Psycho Blast", "degats": 150}
         ],
         "sante": 1000
       },
@@ -92,7 +92,7 @@
           {"attaque_4": "Tornado Punch", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Typhoon Fury", "degats": 150}
+          {"attaque_spe": "Typhoon Fury", "degats": 150}
         ],
         "sante": 1100
       },
@@ -108,7 +108,7 @@
           {"attaque_4": "Raging Fury", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Wild Rage", "degats": 150}
+          {"attaque_spe": "Wild Rage", "degats": 150}
         ],
         "sante": 950
       },
@@ -124,7 +124,7 @@
           {"attaque_4": "Ghostly Assault", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Haunting Vengeance", "degats": 150}
+          {"attaque_spe": "Haunting Vengeance", "degats": 150}
         ],
         "sante": 900
       },
@@ -140,7 +140,7 @@
           {"attaque_4": "Raven's Fury", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Deadly Wings", "degats": 150}
+          {"attaque_spe": "Deadly Wings", "degats": 150}
         ],
         "sante": 1000
       },
@@ -156,7 +156,7 @@
           {"attaque_4": "Trickster's Gambit", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Illusionary Assassination", "degats": 150}
+          {"attaque_spe": "Illusionary Assassination", "degats": 150}
         ],
         "sante": 900
       }

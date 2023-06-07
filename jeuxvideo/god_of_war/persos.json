@@ -15,7 +15,7 @@
           {"attaque_3": "Leviathan Axe", "degats": 90},
           {"attaque_4": "Zeus' Fury", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Wrath of the Titans", "degats": 150}],
+        "special": [{"attaque_spe": "Wrath of the Titans", "degats": 150}],
         "sante": 800
       },
       {
@@ -29,7 +29,7 @@
           {"attaque_3": "Summon Wolves", "degats": 80},
           {"attaque_4": "Spartan Kick", "degats": 90}
         ],
-        "speciale": [{"attaque_speciale": "Gift of Apollo", "degats": 140}],
+        "special": [{"attaque_spe": "Gift of Apollo", "degats": 140}],
         "sante": 600
       },
       {
@@ -43,7 +43,7 @@
           {"attaque_3": "Shockwave", "degats": 90},
           {"attaque_4": "Grapple", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Curse of Immortality", "degats": 150}],
+        "special": [{"attaque_spe": "Curse of Immortality", "degats": 150}],
         "sante": 700
       },
       {
@@ -57,7 +57,7 @@
           {"attaque_3": "Falcon Summon", "degats": 90},
           {"attaque_4": "Banshee Scream", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Goddess of Life", "degats": 150}],
+        "special": [{"attaque_spe": "Goddess of Life", "degats": 150}],
         "sante": 900
       },
       {
@@ -71,7 +71,7 @@
           {"attaque_3": "Fire Grenade", "degats": 90},
           {"attaque_4": "Shock Trap", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Master Craftsman", "degats": 150}],
+        "special": [{"attaque_spe": "Master Craftsman", "degats": 150}],
         "sante": 600
       },
       {
@@ -85,7 +85,7 @@
           {"attaque_3": "Storyteller's Voice", "degats": 80},
           {"attaque_4": "Headbutt", "degats": 90}
         ],
-        "speciale": [{"attaque_speciale": "Sage's Knowledge", "degats": 140}],
+        "special": [{"attaque_spe": "Sage's Knowledge", "degats": 140}],
         "sante": 500
       },
       {
@@ -99,7 +99,7 @@
           {"attaque_3": "Lightning Bolt", "degats": 90},
           {"attaque_4": "Godly Roar", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Fury of Asgard", "degats": 150}],
+        "special": [{"attaque_spe": "Fury of Asgard", "degats": 150}],
         "sante": 850
       },
       {
@@ -113,7 +113,7 @@
           {"attaque_3": "Hammer Toss", "degats": 90},
           {"attaque_4": "Spartan Charge", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Sons of Thor", "degats": 150}],
+        "special": [{"attaque_spe": "Sons of Thor", "degats": 150}],
         "sante": 750
       },
       {
@@ -127,7 +127,7 @@
           {"attaque_3": "Nature's Wrath", "degats": 90},
           {"attaque_4": "Sacred Shield", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Mother's Love", "degats": 150}],
+        "special": [{"attaque_spe": "Mother's Love", "degats": 150}],
         "sante": 700
       },
       {
@@ -141,7 +141,7 @@
           {"attaque_3": "Heavenly Wrath", "degats": 90},
           {"attaque_4": "Olympian Roar", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Wrath of the Gods", "degats": 150}],
+        "special": [{"attaque_spe": "Wrath of the Gods", "degats": 150}],
         "sante": 900
       }
     ]

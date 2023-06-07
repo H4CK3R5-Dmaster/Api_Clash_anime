@@ -15,7 +15,7 @@
           {"attaque_3": "Sword", "degats": 90},
           {"attaque_4": "Crossbow", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 800
       },
       {
@@ -33,7 +33,7 @@
           {"attaque_3": "Throwing Daggers", "degats": 90},
           {"attaque_4": "Longbow", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 750
       },
       {
@@ -51,7 +51,7 @@
           {"attaque_3": "Bow", "degats": 90},
           {"attaque_4": "Rope Dart", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 800
       },
       {
@@ -69,7 +69,7 @@
           {"attaque_3": "Dual Pistols", "degats": 90},
           {"attaque_4": "Blowpipe", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 850
       },
       {
@@ -87,7 +87,7 @@
           {"attaque_3": "Phantom Blade", "degats": 90},
           {"attaque_4": "Smoke Bomb", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 800
       },
       {
@@ -105,7 +105,7 @@
           {"attaque_3": "Cane Sword", "degats": 90},
           {"attaque_4": "Throwing Knives", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 750
       },
       {
@@ -123,7 +123,7 @@
           {"attaque_3": "Hunter Bow", "degats": 90},
           {"attaque_4": "Predator Bow", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 800
       },
       {
@@ -141,7 +141,7 @@
           {"attaque_3": "Sword", "degats": 90},
           {"attaque_4": "Bow", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 850
       },
       {
@@ -159,7 +159,7 @@
           {"attaque_3": "Dual Pistols", "degats": 90},
           {"attaque_4": "Blowpipe", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 800
       },
       {
@@ -177,7 +177,7 @@
           {"attaque_3": "Sword", "degats": 90},
           {"attaque_4": "Bow", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Eagle Vision", "degats": 150}],
+        "special": [{"attaque_spe": "Eagle Vision", "degats": 150}],
         "sante": 850
       }
     ]

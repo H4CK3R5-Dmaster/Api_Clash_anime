@@ -15,7 +15,7 @@
           {"attaque_3": "Signe Igni", "degats": 90},
           {"attaque_4": "Signe Aard", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Signe Quen", "degats": 150}],
+        "special": [{"attaque_spe": "Signe Quen", "degats": 150}],
         "sante": 800
       },
       {
@@ -29,7 +29,7 @@
           {"attaque_3": "Sortilège de foudre", "degats": 80},
           {"attaque_4": "Télékinésie", "degats": 90}
         ],
-        "speciale": [{"attaque_speciale": "Tornade de magie", "degats": 140}],
+        "special": [{"attaque_spe": "Tornade de magie", "degats": 140}],
         "sante": 600
       },
       {
@@ -43,7 +43,7 @@
           {"attaque_3": "Sortilège de foudre", "degats": 80},
           {"attaque_4": "Illusion", "degats": 90}
         ],
-        "speciale": [{"attaque_speciale": "Nova d'énergie", "degats": 140}],
+        "special": [{"attaque_spe": "Nova d'énergie", "degats": 140}],
         "sante": 600
       },
       {
@@ -61,7 +61,7 @@
           {"attaque_3": "Signe de l'Éclair", "degats": 90},
           {"attaque_4": "Signe du Vent", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Nova de Glace", "degats": 150}],
+        "special": [{"attaque_spe": "Nova de Glace", "degats": 150}],
         "sante": 700
       },
       {
@@ -75,7 +75,7 @@
           {"attaque_3": "Provocation", "degats": 70},
           {"attaque_4": "Lancer de bouteille", "degats": 80}
         ],
-        "speciale": [{"attaque_speciale": "Ballade émouvante", "degats": 120}],
+        "special": [{"attaque_spe": "Ballade émouvante", "degats": 120}],
         "sante": 400
       },
       {
@@ -89,7 +89,7 @@
           {"attaque_3": "Cri de guerre", "degats": 90},
           {"attaque_4": "Charge féroce", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Bain de sang", "degats": 150}],
+        "special": [{"attaque_spe": "Bain de sang", "degats": 150}],
         "sante": 800
       },
       {
@@ -103,7 +103,7 @@
           {"attaque_3": "Sortilège de foudre", "degats": 80},
           {"attaque_4": "Télékinésie", "degats": 90}
         ],
-        "speciale": [{"attaque_speciale": "Explosion magique", "degats": 140}],
+        "special": [{"attaque_spe": "Explosion magique", "degats": 140}],
         "sante": 600
       },
       {
@@ -117,7 +117,7 @@
           {"attaque_3": "Lancer de couteau", "degats": 90},
           {"attaque_4": "Piège explosif", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Bombe éclairante", "degats": 150}],
+        "special": [{"attaque_spe": "Bombe éclairante", "degats": 150}],
         "sante": 700
       },
       {
@@ -131,7 +131,7 @@
           {"attaque_3": "Signe Igni", "degats": 90},
           {"attaque_4": "Signe Aard", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Signe Yrden", "degats": 150}],
+        "special": [{"attaque_spe": "Signe Yrden", "degats": 150}],
         "sante": 800
       },
       {
@@ -145,7 +145,7 @@
           {"attaque_3": "Signe Igni", "degats": 90},
           {"attaque_4": "Signe Aard", "degats": 100}
         ],
-        "speciale": [{"attaque_speciale": "Signe Axii", "degats": 150}],
+        "special": [{"attaque_spe": "Signe Axii", "degats": 150}],
         "sante": 800
       }
     ]

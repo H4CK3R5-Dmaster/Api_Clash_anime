@@ -15,7 +15,7 @@
           {"attaque_4": "Lightning Fire Dragon's Iron Fist", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Dragon Slayer Secret Art: Crimson Lotus: Phoenix Blade", "degats": 150}
+          {"attaque_spe": "Dragon Slayer Secret Art: Crimson Lotus: Phoenix Blade", "degats": 150}
         ],
         "sante": 1000
       },
@@ -31,7 +31,7 @@
           {"attaque_4": "Fairy Sphere", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Celestial Spirit: The Starry Sky", "degats": 150}
+          {"attaque_spe": "Celestial Spirit: The Starry Sky", "degats": 150}
         ],
         "sante": 800
       },
@@ -50,7 +50,7 @@
           {"attaque_4": "Armor: Nakagami Starlight", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Armor: Fairy Queen Armor", "degats": 150}
+          {"attaque_spe": "Armor: Fairy Queen Armor", "degats": 150}
         ],
         "sante": 900
       },
@@ -69,7 +69,7 @@
           {"attaque_4": "Ice Devil's Zeroth Long Sword", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Ice-Make: Seven Slice Dance", "degats": 150}
+          {"attaque_spe": "Ice-Make: Seven Slice Dance", "degats": 150}
         ],
         "sante": 850
       },
@@ -88,7 +88,7 @@
           {"attaque_4": "Sky Dragon's Claw", "degats": 80}
         ],
         "special": [
-          {"attaque_speciale": "Dragon Slayer Secret Art: Shattering Light: Sky Drill", "degats": 150}
+          {"attaque_spe": "Dragon Slayer Secret Art: Shattering Light: Sky Drill", "degats": 150}
         ],
         "sante": 800
       },
@@ -107,7 +107,7 @@
           {"attaque_4": "Iron Shadow Dragon's Crushing Fang", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Iron Shadow Dragon Mode: Karma Demon: Iron God Sword", "degats": 150}
+          {"attaque_spe": "Iron Shadow Dragon Mode: Karma Demon: Iron God Sword", "degats": 150}
         ],
         "sante": 900
       },
@@ -123,7 +123,7 @@
           {"attaque_4": "Water Cane", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Unison Raid: Water-Make: Water-Meteor", "degats": 150}
+          {"attaque_spe": "Unison Raid: Water-Make: Water-Meteor", "degats": 150}
         ],
         "sante": 800
       },
@@ -139,7 +139,7 @@
           {"attaque_4": "Crushing Evil, Spreading the Truth: Thunderous Strike", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Crushing Evil, Spreading the Truth: Supreme King's Wrath", "degats": 150}
+          {"attaque_spe": "Crushing Evil, Spreading the Truth: Supreme King's Wrath", "degats": 150}
         ],
         "sante": 950
       },
@@ -158,7 +158,7 @@
           {"attaque_4": "Lightning Dragon's Iron Fist", "degats": 90}
         ],
         "special": [
-          {"attaque_speciale": "Thunder Palace: Roaring Thunder", "degats": 150}
+          {"attaque_spe": "Thunder Palace: Roaring Thunder", "degats": 150}
         ],
         "sante": 1000
       },
@@ -177,7 +177,7 @@
           {"attaque_4": "Satan Soul: Mirajane Alegria", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Satan Soul: Satan's Hellfire", "degats": 150}
+          {"attaque_spe": "Satan Soul: Satan's Hellfire", "degats": 150}
         ],
         "sante": 850
       }

@@ -15,7 +15,7 @@
           {"attaque_4": "Kagune: Koukaku Blades", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kakuja: Centipede Awakening", "degats": 150}
+          {"attaque_spe": "Kakuja: Centipede Awakening", "degats": 150}
         ],
         "sante": 800
       },
@@ -31,7 +31,7 @@
           {"attaque_4": "Kagune: Koukaku Blade Dance", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kagune: Centipede Rush", "degats": 150}
+          {"attaque_spe": "Kagune: Centipede Rush", "degats": 150}
         ],
         "sante": 750
       },
@@ -47,7 +47,7 @@
           {"attaque_4": "Elegant Destruction", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Uncontrollable Gluttony", "degats": 150}
+          {"attaque_spe": "Uncontrollable Gluttony", "degats": 150}
         ],
         "sante": 700
       },
@@ -63,7 +63,7 @@
           {"attaque_4": "Slash", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Scorpion's Wrath", "degats": 150}
+          {"attaque_spe": "Scorpion's Wrath", "degats": 150}
         ],
         "sante": 850
       },
@@ -79,7 +79,7 @@
           {"attaque_4": "Kagune: Koukaku Barrage", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kagune: Centipede Burst", "degats": 150}
+          {"attaque_spe": "Kagune: Centipede Burst", "degats": 150}
         ],
         "sante": 800
       },
@@ -95,7 +95,7 @@
           {"attaque_4": "Owl: Narukami Final", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Owl: IXA Release", "degats": 150}
+          {"attaque_spe": "Owl: IXA Release", "degats": 150}
         ],
         "sante": 900
       },
@@ -111,7 +111,7 @@
           {"attaque_4": "Kagune: Koukaku Charge", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kagune: Centipede Assault", "degats": 150}
+          {"attaque_spe": "Kagune: Centipede Assault", "degats": 150}
         ],
         "sante": 750
       },
@@ -127,7 +127,7 @@
           {"attaque_4": "Quinque: Quinque IXA", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Quinque: Arata Joker Final", "degats": 150}
+          {"attaque_spe": "Quinque: Arata Joker Final", "degats": 150}
         ],
         "sante": 850
       },
@@ -143,7 +143,7 @@
           {"attaque_4": "Kakuja: Koukaku Shell Slam", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kakuja: Centipede Rampage", "degats": 150}
+          {"attaque_spe": "Kakuja: Centipede Rampage", "degats": 150}
         ],
         "sante": 800
       },
@@ -159,7 +159,7 @@
           {"attaque_4": "Kagune: Koukaku Shell", "degats": 120}
         ],
         "special": [
-          {"attaque_speciale": "Kagune: Centipede Strike", "degats": 150}
+          {"attaque_spe": "Kagune: Centipede Strike", "degats": 150}
         ],
         "sante": 750
       }

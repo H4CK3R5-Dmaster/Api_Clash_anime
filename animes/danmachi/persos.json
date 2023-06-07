@@ -15,7 +15,7 @@
         { "attaque_4": "Argonaut: Grand Strike", "degats": 120 }
       ],
       "special": [
-        { "attaque_speciale": "Argonaut: Phoebus Apollo", "degats": 150 }
+        { "attaque_spe": "Argonaut: Phoebus Apollo", "degats": 150 }
       ],
       "sante": 1000
     },
@@ -33,7 +33,7 @@
         { "attaque_3": "Falcon Slash", "degats": 80 },
         { "attaque_4": "Luminous Break", "degats": 100 }
       ],
-      "special": [{ "attaque_speciale": "Photon Burst", "degats": 130 }],
+      "special": [{ "attaque_spe": "Photon Burst", "degats": 130 }],
       "sante": 900
     },
     {
@@ -47,7 +47,7 @@
         { "attaque_3": "Healing Touch", "degats": 0 },
         { "attaque_4": "Sanctuary", "degats": 0 }
       ],
-      "special": [{ "attaque_speciale": "Goddess' Blessing", "degats": 0 }],
+      "special": [{ "attaque_spe": "Goddess' Blessing", "degats": 0 }],
       "sante": 800
     },
     {
@@ -61,7 +61,7 @@
         { "attaque_3": "Gale Arrow", "degats": 80 },
         { "attaque_4": "Storm's Wrath", "degats": 100 }
       ],
-      "special": [{ "attaque_speciale": "Tempest Fury", "degats": 130 }],
+      "special": [{ "attaque_spe": "Tempest Fury", "degats": 130 }],
       "sante": 850
     },
     {
@@ -75,7 +75,7 @@
         { "attaque_3": "Burning Rage", "degats": 90 },
         { "attaque_4": "Crimson Tempest", "degats": 120 }
       ],
-      "special": [{ "attaque_speciale": "Phoenix Strike", "degats": 150 }],
+      "special": [{ "attaque_spe": "Phoenix Strike", "degats": 150 }],
       "sante": 1000
     },
     {
@@ -89,7 +89,7 @@
         { "attaque_3": "Seduction", "degats": 80 },
         { "attaque_4": "Divine Mischief", "degats": 100 }
       ],
-      "special": [{ "attaque_speciale": "Goddess' Charm", "degats": 130 }],
+      "special": [{ "attaque_spe": "Goddess' Charm", "degats": 130 }],
       "sante": 900
     },
     {
@@ -103,7 +103,7 @@
         { "attaque_3": "Lucky Strike", "degats": 90 },
         { "attaque_4": "Fortune's Blade", "degats": 120 }
       ],
-      "special": [{ "attaque_speciale": "Champion's Roar", "degats": 150 }],
+      "special": [{ "attaque_spe": "Champion's Roar", "degats": 150 }],
       "sante": 950
     },
     {
@@ -117,7 +117,7 @@
         { "attaque_3": "Glacial Spear", "degats": 80 },
         { "attaque_4": "Frozen Storm", "degats": 100 }
       ],
-      "special": [{ "attaque_speciale": "Absolute Zero", "degats": 130 }],
+      "special": [{ "attaque_spe": "Absolute Zero", "degats": 130 }],
       "sante": 850
     },
     {
@@ -131,7 +131,7 @@
         { "attaque_3": "Beast Roar", "degats": 90 },
         { "attaque_4": "Rampage", "degats": 120 }
       ],
-      "special": [{ "attaque_speciale": "Beast King Roar", "degats": 150 }],
+      "special": [{ "attaque_spe": "Beast King Roar", "degats": 150 }],
       "sante": 1000
     },
     {
@@ -145,7 +145,7 @@
         { "attaque_3": "Speedy Strike", "degats": 80 },
         { "attaque_4": "Swift Cyclone", "degats": 100 }
       ],
-      "special": [{ "attaque_speciale": "Herald's Blessing", "degats": 130 }],
+      "special": [{ "attaque_spe": "Herald's Blessing", "degats": 130 }],
       "sante": 800
     }
   ]
