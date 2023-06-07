@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Guts",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/KHo7wf5.png",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Dragon Slayer", "degats": 100},
@@ -19,7 +19,7 @@
       {
         "id": 2,
         "name": "Griffith",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/R582YJ1.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Sword of the Hawk", "degats": 90},
@@ -35,7 +35,7 @@
       {
         "id": 3,
         "name": "Casca",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/DMvdsmL.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Iron Thorn", "degats": 80},
@@ -51,7 +51,7 @@
       {
         "id": 4,
         "name": "Puck",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/8X57wJ0.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Fairy Dust", "degats": 50},
@@ -67,7 +67,7 @@
       {
         "id": 5,
         "name": "Judeau",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/6edDo2N.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Sword Dance", "degats": 70},
@@ -83,7 +83,7 @@
       {
         "id": 6,
         "name": "Caska",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/arCPyoU.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Dragon Flame Breath", "degats": 80},
@@ -99,7 +99,7 @@
       {
         "id": 7,
         "name": "Schierke",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/ffKuipP.png",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Astral Projection", "degats": 50},
@@ -115,7 +115,7 @@
       {
         "id": 8,
         "name": "Zodd",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/nIeZwut.jpeg",
         "transformations": [
           {"transformation_1": "Human Form", "multiplier": 1.5},
           {"transformation_2": "True Apostle Form", "multiplier": 2}
@@ -134,7 +134,7 @@
       {
         "id": 9,
         "name": "Farnese",
-        "avatar": "",
+        "avatar": "https://i.imgur.com/sHmbDjj.jpeg",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Holy Fire", "degats": 70},
@@ -150,7 +150,7 @@
       {
         "id": 10,
         "name": "Isidro",
-        "avatar": "",
+        "avatar": "https://static.wikia.nocookie.net/p__/images/4/43/716aefe722926fa543704c3abb5eb5e0.jpg/revision/latest/scale-to-width-down/350?cb=20171004123910&path-prefix=protagonist",
         "transformations": [],
         "attaques": [
           {"attaque_1": "Dagger Strike", "degats": 50},
