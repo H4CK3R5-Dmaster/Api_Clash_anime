@@ -77,7 +77,7 @@ app.get('/', (req, res) => {
   explanation += ' to retrieve information about that specific anime.';
   explanation += '<br>Similarly, you can use :jeuName in a route like /jeuxvideo/:jeuName';
   explanation += ' to capture the game name in the URL and use it in your processing.';
-  explanation += `<br><br>total number of characters overall : ${totalPersos}`;
+  explanation += `<br><br>total number of characters overall : ${totalPersos} characters`;
 
 
   
