@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Baki Hanma",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/tLHTVSp.jpeg",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Ogre Slayer", "degats": 80},
@@ -17,7 +17,7 @@
         {
             "id": 2,
             "name": "Yujiro Hanma",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/wDMMOSM.jpeg",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Ogre's Roar", "degats": 100},
@@ -31,7 +31,7 @@
         {
             "id": 3,
             "name": "Doppo Orochi",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/QeUmIvN.jpeg",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Orochi Whip Strike", "degats": 70},
@@ -45,7 +45,7 @@
         {
             "id": 4,
             "name": "Kaoru Hanayama",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/Yk1pXtG.png",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Grip of the Ogre", "degats": 90},
@@ -59,7 +59,7 @@
         {
             "id": 5,
             "name": "Jack Hanma",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/adT26eP.png",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Hanma Storm", "degats": 80},
@@ -73,7 +73,7 @@
         {
             "id": 6,
             "name": "Retsu Kaioh",
-            "avatar": "",
+            "avatar": "https://static.wikia.nocookie.net/baki/images/e/e8/Retsu_profile.png/revision/latest?cb=20220726224006",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Iron Body Strike", "degats": 70},
@@ -87,7 +87,7 @@
         {
             "id": 7,
             "name": "Hanma Baki (Young)",
-            "avatar": "",
+            "avatar": "https://static.wikia.nocookie.net/vsbattles/images/d/dd/001baki.png/revision/latest?cb=20210806171833",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Backbreaker", "degats": 60},
@@ -101,7 +101,7 @@
         {
             "id": 8,
             "name": "Goki Shibukawa",
-            "avatar": "",
+            "avatar": "https://static.wikia.nocookie.net/baki/images/0/0a/200300-new_grappler_baki_vol.29_ch.255_fight.jpg/revision/latest/scale-to-width-down/160?cb=20170312212314",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Seiken Strike", "degats": 60},
@@ -115,7 +115,7 @@
         {
             "id": 9,
             "name": "Katsumi Orochi",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/PYnfhjC.png",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Orochi Kick", "degats": 70},
@@ -129,7 +129,7 @@
         {
             "id": 10,
             "name": "Kozue Matsumoto",
-            "avatar": "",
+            "avatar": "https://i.imgur.com/80XXH1s.png",
             "transformations": [],
             "attaques": [
                 {"attaque_1": "Damsel Strike", "degats": 50},
