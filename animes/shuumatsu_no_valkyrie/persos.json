@@ -1,0 +1,171 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Thor",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Base", "multiplier": 1},
+          {"transformation_2": "Warrior's Fury", "multiplier": 2},
+          {"transformation_3": "Odinforce", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Mjolnir Strike", "degats": 80},
+          {"attaque_2": "Thunderous Roar", "degats": 100},
+          {"attaque_3": "Lightning Storm", "degats": 120},
+          {"attaque_4": "Godly Thunder", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Ragnarok", "degats": 200}],
+        "sante": 1000
+      },
+      {
+        "id": 2,
+        "name": "Zeus",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Base", "multiplier": 1},
+          {"transformation_2": "Skyfather Form", "multiplier": 2},
+          {"transformation_3": "Divine Ascension", "multiplier": 5},
+          {"transformation_4": "Adamas", "multiplier": 10}
+        ],
+        "attaques": [
+          {"attaque_1": "Thunderbolt", "degats": 80},
+          {"attaque_2": "Olympian Blast", "degats": 100},
+          {"attaque_3": "Divine Judgment", "degats": 120},
+          {"attaque_4": "Wrath of Olympus", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Olympian Storm", "degats": 200}],
+        "sante": 1000
+      },
+      {
+        "id": 3,
+        "name": "Poseidon",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Base", "multiplier": 1},
+          {"transformation_2": "Trident Form", "multiplier": 2},
+          {"transformation_3": "Ocean's Fury", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Tidal Wave", "degats": 80},
+          {"attaque_2": "Whirlpool", "degats": 100},
+          {"attaque_3": "Aqua Slash", "degats": 120},
+          {"attaque_4": "Raging Waters", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Wrath of the Sea", "degats": 200}],
+        "sante": 1000
+      },
+      {
+        "id": 4,
+        "name": "Heracles",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Human Form", "multiplier": 1},
+          {"transformation_2": "Divine Form", "multiplier": 2}
+        ],
+        "attaques": [
+          {"attaque_1": "Lion's Roar", "degats": 80},
+          {"attaque_2": "Nemean Strike", "degats": 100},
+          {"attaque_3": "Herculean Crush", "degats": 120},
+          {"attaque_4": "Titanic Uppercut", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Olympian Rampage", "degats": 200}],
+        "sante": 1200
+      },
+      {
+        "id": 5,
+        "name": "Achilles",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Spear Thrust", "degats": 60},
+          {"attaque_2": "Shield Bash", "degats": 80},
+          {"attaque_3": "Swift Strike", "degats": 100},
+          {"attaque_4": "Heroic Charge", "degats": 120}
+        ],
+        "special": [{"attaque_spe": "Wrath of the Myrmidon", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 6,
+        "name": "Hades",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Base", "multiplier": 1},
+          {"transformation_2": "Shadow Form", "multiplier": 2},
+          {"transformation_3": "Ruler of the Underworld", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Dark Blast", "degats": 80},
+          {"attaque_2": "Soul Drain", "degats": 100},
+          {"attaque_3": "Death's Embrace", "degats": 120},
+          {"attaque_4": "Eternal Oblivion", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Stygian Abyss", "degats": 200}],
+        "sante": 1200
+      },
+      {
+        "id": 7,
+        "name": "Shiva",
+        "avatar": "",
+        "transformations": [
+            {"transformation_1": "Tandava karma", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Third Eye", "degats": 60},
+          {"attaque_2": "Cosmic Dance", "degats": 80},
+          {"attaque_3": "Destruction Wave", "degats": 100},
+          {"attaque_4": "Nataraja's Wrath", "degats": 120}
+        ],
+        "special": [{"attaque_spe": "Rudra's Roar", "degats": 150}],
+        "sante": 1000
+      },
+      {
+        "id": 8,
+        "name": "Beelzebub",
+        "avatar": "",
+        "transformations": [
+          {"transformation_1": "Base", "multiplier": 1},
+          {"transformation_2": "Fly Form", "multiplier": 2},
+          {"transformation_3": "Lord of Flies", "multiplier": 5}
+        ],
+        "attaques": [
+          {"attaque_1": "Infernal Flames", "degats": 80},
+          {"attaque_2": "Toxic Cloud", "degats": 100},
+          {"attaque_3": "Corruption Beam", "degats": 120},
+          {"attaque_4": "Pandemonium", "degats": 150}
+        ],
+        "special": [{"attaque_spe": "Apocalyptic Swarm", "degats": 200}],
+        "sante": 1100
+      },
+      {
+        "id": 9,
+        "name": "Anubis",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Soul Siphon", "degats": 60},
+          {"attaque_2": "Death's Gaze", "degats": 80},
+          {"attaque_3": "Spiritual Conduit", "degats": 100},
+          {"attaque_4": "Judgment of the Dead", "degats": 120}
+        ],
+        "special": [{"attaque_spe": "Eternal Damnation", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 10,
+        "name": "Ravana",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Ten-Headed Strike", "degats": 60},
+          {"attaque_2": "Demon's Grasp", "degats": 80},
+          {"attaque_3": "Rakshasa Rampage", "degats": 100},
+          {"attaque_4": "Dreadful Roar", "degats": 120}
+        ],
+        "special": [{"attaque_spe": "Apocalyptic Wrath", "degats": 150}],
+        "sante": 950
+      }
+    ]
+  }
+  

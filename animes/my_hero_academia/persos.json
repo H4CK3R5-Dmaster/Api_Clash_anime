@@ -1,0 +1,145 @@
+{
+    "personnages": [
+      {
+        "id": 1,
+        "name": "Midoriya Izuku",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "One For All Smash", "degats": 70},
+          {"attaque_2": "Detroit Smash", "degats": 80},
+          {"attaque_3": "Delaware Smash", "degats": 90},
+          {"attaque_4": "Manchester Smash", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Full Cowl: Shoot Style", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 2,
+        "name": "Todoroki Shoto",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Ice Path", "degats": 70},
+          {"attaque_2": "Heaven-Piercing Ice Wall", "degats": 80},
+          {"attaque_3": "Flashfreeze Heatwave", "degats": 90},
+          {"attaque_4": "Prominence Burn", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Half-Cold Half-Hot", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 3,
+        "name": "Bakugo Katsuki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Explosion", "degats": 70},
+          {"attaque_2": "Howitzer Impact", "degats": 80},
+          {"attaque_3": "Stun Grenade", "degats": 90},
+          {"attaque_4": "AP Shot: Auto-Cannon", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Blast Rush Turbo", "degats": 150}],
+        "sante": 800
+      },
+      {
+        "id": 4,
+        "name": "Himiko Toga",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Knife Stab", "degats": 70},
+          {"attaque_2": "Acidic Blood", "degats": 80},
+          {"attaque_3": "Camouflage", "degats": 90},
+          {"attaque_4": "Transform: Fanged Teeth", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Bloodsucking", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 5,
+        "name": "Dabi",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Cremation", "degats": 70},
+          {"attaque_2": "Flashfire Fist - Jet Burn", "degats": 80},
+          {"attaque_3": "Black Ankh", "degats": 90},
+          {"attaque_4": "Prominence Burn", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Blue Flames", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 6,
+        "name": "All For One",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Air Cannon", "degats": 70},
+          {"attaque_2": "Radio Waves", "degats": 80},
+          {"attaque_3": "Disintegration", "degats": 90},
+          {"attaque_4": "All For One", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Steal Quirks", "degats": 150}],
+        "sante": 1000
+      },
+      {
+        "id": 7,
+        "name": "Tomura Shigaraki",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Decay", "degats": 70},
+          {"attaque_2": "Dismantle", "degats": 80},
+          {"attaque_3": "Scatter", "degats": 90},
+          {"attaque_4": "Disintegration Touch", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Decay Wave", "degats": 150}],
+        "sante": 900
+      },
+      {
+        "id": 8,
+        "name": "Stain",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Bloodcurdle", "degats": 70},
+          {"attaque_2": "Paralyze", "degats": 80},
+          {"attaque_3": "Redirection", "degats": 90},
+          {"attaque_4": "Crimson Riot: Red Gauntlet", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Hero Killer: Stain", "degats": 150}],
+        "sante": 700
+      },
+      {
+        "id": 9,
+        "name": "Twice",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Double", "degats": 70},
+          {"attaque_2": "Clone Army", "degats": 80},
+          {"attaque_3": "Self-Destruct", "degats": 90},
+          {"attaque_4": "Overhaul", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "Sad Man's Parade", "degats": 150}],
+        "sante": 600
+      },
+      {
+        "id": 10,
+        "name": "Shigaraki's Nomu",
+        "avatar": "",
+        "transformations": [],
+        "attaques": [
+          {"attaque_1": "Super Regeneration", "degats": 70},
+          {"attaque_2": "Hyper Smash", "degats": 80},
+          {"attaque_3": "Quirk Absorption", "degats": 90},
+          {"attaque_4": "Shockwave Quirk", "degats": 100}
+        ],
+        "special": [{"attaque_spe": "All For One's Power", "degats": 150}],
+        "sante": 800
+      }
+    ]
+  }
+  
