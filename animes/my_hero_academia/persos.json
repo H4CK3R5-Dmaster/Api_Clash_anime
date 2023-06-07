@@ -4,7 +4,11 @@
         "id": 1,
         "name": "Midoriya Izuku",
         "avatar": "",
-        "transformations": [],
+        "transformations": [
+            {"transformation_1": "One For All: Full Cowl", "multiplier": 1.5},
+            {"transformation_2": "One For All: Shoot Style", "multiplier": 2},
+            {"transformation_3": "One For All: 100%", "multiplier": 5}
+        ],
         "attaques": [
           {"attaque_1": "One For All Smash", "degats": 70},
           {"attaque_2": "Detroit Smash", "degats": 80},
@@ -88,7 +92,11 @@
         "id": 7,
         "name": "Tomura Shigaraki",
         "avatar": "",
-        "transformations": [],
+        "transformations": [
+            {"transformation_1": "Puissance libérée", "multiplier": 2},
+            {"transformation_1": "Version améliorée", "multiplier": 5},
+            {"transformation_1": "Forme 75%", "multiplier": 10}
+        ],
         "attaques": [
           {"attaque_1": "Decay", "degats": 70},
           {"attaque_2": "Dismantle", "degats": 80},
