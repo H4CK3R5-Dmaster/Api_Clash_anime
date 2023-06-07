@@ -117,8 +117,8 @@
         "name": "Zodd",
         "avatar": "https://i.imgur.com/nIeZwut.jpeg",
         "transformations": [
-          {"transformation_1": "Human Form", "multiplier": 1.5},
-          {"transformation_2": "True Apostle Form", "multiplier": 2}
+          
+          {"transformation_1": "True Apostle Form", "multiplier": 2, "avatar_2": "https://static.wikia.nocookie.net/berserk/images/7/7c/Nosferatu_Zodd%27s_Apostle_Form.jpg/revision/latest/scale-to-width-down/250?cb=20100918094021"}
         ],
         "attaques": [
           {"attaque_1": "Sword Slash", "degats": 80},
