@@ -42,7 +42,7 @@
         "name": "Byakuya Kuchiki",
         "avatar": "https://i.imgur.com/c3vPrUD.jpeg",
         "transformations": [
-          {"transformation_1": "Bankai: Senbonzakura Kageyoshi", "multiplier": 1.8, "avatar_2":"https://static.wikia.nocookie.net/bleach3phantom/images/a/ac/Senbonzakura_Kageyoshi.png/revision/latest?cb=20201208044914"}
+          {"transformation_1": "Bankai: Senbonzakura Kageyoshi", "multiplier": 1.8, "avatar_2":"https://i.ytimg.com/vi/1WWEonrfMhM/maxresdefault.jpg"}
         ],
         "attaques": [
           {"attaque_1": "Senbonzakura", "degats": 80},
@@ -61,7 +61,7 @@
         "avatar": "https://i.imgur.com/Rmno7O4.jpeg",
         "transformations": [
           {"transformation_1": "Shinigami Form", "multiplier": 1.4, "avatar_2":"https://i.imgur.com/uVSSEf1.jpeg"},
-          {"transformation_2": "Shikai: Hyorinmaru", "multiplier": 1.7, "avatar_3":"https://static.wikia.nocookie.net/rpg-the-king-of-cartoons-2/images/7/71/Ep48Hy%C5%8DrinmaruShikai.png/revision/latest?cb=20200812221207&path-prefix=pt-br"}
+          {"transformation_2": "Shikai: Hyorinmaru", "multiplier": 1.7, "avatar_3":"https://pm1.aminoapps.com/6841/116e0ba7b4e1bd4782253f3a862ee87ee645146bv2_hq.jpg"}
         ],
         "attaques": [
           {"attaque_1": "Hyorinmaru", "degats": 70},
@@ -132,7 +132,7 @@
         "name": "Grimmjow Jaegerjaquez",
         "avatar": "https://i.imgur.com/k55shzm.jpeg",
         "transformations": [
-          {"transformation_1": "Resurrección", "multiplier": 2,"avatar_2":"https://static.wikia.nocookie.net/bleach-bravesouls/images/8/85/Gacha-5s-Grimmjow-Speed.png/revision/latest?cb=20200710105339"}
+          {"transformation_1": "Resurrección", "multiplier": 2,"avatar_2":"https://i.ytimg.com/vi/kVx8A-barXw/maxresdefault.jpg"}
         ],
         "attaques": [
           {"attaque_1": "Gran Rey Cero", "degats": 80},
