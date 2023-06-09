@@ -3,10 +3,9 @@
     {
       "id": 1,
       "name": "Bell Cranel",
-      "avatar": "",
+      "avatar": "https://www.myutaku.com/media/personnage/96643.jpg",
       "transformations": [
-        { "transformation_1": "Adventurer Form", "multiplier": 1.2 },
-        { "transformation_2": "Argonaut", "multiplier": 1.5 }
+        { "transformation_1": "Argonaut", "multiplier": 1.5, "avatar_2":"" }
       ],
       "attaques": [
         { "attaque_1": "Firebolt", "degats": 80 },
@@ -24,8 +23,7 @@
       "name": "Ais Wallenstein",
       "avatar": "",
       "transformations": [
-        { "transformation_1": "Adventurer Form", "multiplier": 1.3 },
-        { "transformation_2": "Eclipse", "multiplier": 1.7 }
+        { "transformation_1": "Eclipse", "multiplier": 1.7, "avatar_2":"" }
       ],
       "attaques": [
         { "attaque_1": "Tornado", "degats": 70 },

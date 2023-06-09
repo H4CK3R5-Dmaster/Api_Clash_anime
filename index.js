@@ -115,7 +115,7 @@ app.get("/animes", (req, res) => {
     return { animé: folder, nombrePersos };
   });
 
-  const response = { "nombre total de personnages": totalPersos,  "animés disponibles": animésDisponibles};
+  const response = { "nombre total de personnages": totalPersos,  "animés_disponibles": animésDisponibles};
   res.json(response);
 });
 
